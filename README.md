@@ -18,3 +18,7 @@ Hello there,this is our official progress tracker for the 100 days of hacking st
 - [boynamedboy](./boynamedboy)
 
 - [kahure](./kahure)
+
+- [Chep](./Chep)
+
+- [th3_gr00t](./th3_gr00t)
