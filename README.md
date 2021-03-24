@@ -11,11 +11,17 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [BADboy17](./BADboy17)
 
+- [BryanTmungai](./BryanTmungai)
+
 - [boynamedboy](./boynamedboy)
 
 - [Chep](./Chep)
 
 - [CyberRat](./CyberRat)
+
+- [3ll_3ll](./3ll_3ll)
+
+- [Fra123](./Fra123)
 
 - [Indura](./Indura)
 
@@ -31,13 +37,11 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [Mystickev](./mystickev)
 
+- [Rudefish](./rudefish)
+
 - [Saudi](./saudi)
 
 - [th3_gr00t](./th3_gr00t)
-
-
-
-- 
 
 </details>
 
