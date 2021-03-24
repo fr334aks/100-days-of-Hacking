@@ -2,7 +2,6 @@
 Hello there,this is our official progress tracker for the 100 days of hacking starting on Thursday 1st April 2021 to Saturday 10th July 2021
 
 <details>
-  
   <summary>Challengers</>
 
 ## Challengers 
