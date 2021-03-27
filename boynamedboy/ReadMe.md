@@ -10,7 +10,7 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <img src="./pictures/quote.png" alt="quotes">
 ## Task list
 ### The list below contain set tasks for the 100daysofHacking
-- In some cases, i may divert from the task lists for a while for further research on some of the topics. 
+- In some cases, i may divert from the task lists for a while for further research on some of the topics.
 
 -  [x] for complete tasks  
 
@@ -20,11 +20,17 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Intoduction and Architecture Overview</summary>
  - [ ] Prequisites
+
  - [ ] Architecture Overview
+
  - [ ] CPU
+
  - [ ] Main Memory
+
  - [ ] Memory Layout
+
  - [ ] Memory Hierachy
+ 
 </details>
 <details>
   <summary>Data Representation</summary>
