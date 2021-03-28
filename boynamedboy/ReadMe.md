@@ -282,3 +282,5 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 
 </details>
 
+
+- [Track My Progress](./log.md)
