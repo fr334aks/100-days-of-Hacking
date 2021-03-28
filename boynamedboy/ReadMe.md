@@ -21,17 +21,17 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Intoduction and Architecture Overview</summary>
 
- - [ ] Prequisites
+ - [x] Prequisites
 
- - [ ] Architecture Overview
+ - [x] Architecture Overview
 
- - [ ] CPU
+ - [x] CPU
 
- - [ ] Main Memory
+ - [x] Main Memory
 
- - [ ] Memory Layout
+ - [x] Memory Layout
 
- - [ ] Memory Hierachy
+ - [x] Memory Hierachy
 
 </details>
 <details>
@@ -281,3 +281,7 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
   - [ ] Suspension Interrupt processing summary
 
 </details>
+#### Day 1
+- Went through the Introduction and architecture Overview of x86_64bit machines
+- Link to summary provided here: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/1.Introduction&architectureoverview/Readme.md">Day 1</a
+#### Day 2
