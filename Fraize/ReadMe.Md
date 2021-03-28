@@ -23,7 +23,7 @@
 
 #### More Topics
 * [ ] Insecure Deserialization
-* [ ] Server-side template injection
+* [ ] Server-side template injection (SSTI)
 * [ ] Web cache poisoning
 * [ ] HTTP Host header aattacks
 * [ ] HTTP request smuggling
