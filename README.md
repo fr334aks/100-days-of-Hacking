@@ -21,13 +21,13 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [3ll_3ll](./3ll_3ll)
 
-- [Fra123](./Fra123)
+- [Fraize](./Fraize) - Web 
 
 - [Indura](./Indura)
 
 - [Kahure](./kahure)
 
-- [Koimet](./k0imet)
+- [Koimet](./k0imet) - Web 
 
 - [Lynne](./Lynne)
 
@@ -41,7 +41,7 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [Saudi](./saudi)
 
-- [th3_gr00t](./th3_gr00t)
+- [th3_gr00t](./th3_gr00t) - Mobile 
 
 </details>
 
