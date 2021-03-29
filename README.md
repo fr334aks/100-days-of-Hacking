@@ -9,6 +9,8 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
   
 ## Challengers 
 
+- [3ll_3ll](./3ll_3ll)
+
 - [BADboy17](./BADboy17)
 
 - [BryanTmungai](./BryanTmungai)
@@ -19,7 +21,7 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [CyberRat](./CyberRat)
 
-- [3ll_3ll](./3ll_3ll)
+- [Darksoul](./Darksoul)
 
 - [Fraize](./Fraize) - Web 
 
