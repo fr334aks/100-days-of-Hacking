@@ -21,6 +21,8 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [CyberRat](./CyberRat)
 
+- [Chal13W1zz](./Chal13W1zz)
+
 - [Darksoul](./Darksoul)
 
 - [Fraize](./Fraize) - Web 
@@ -42,6 +44,8 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 - [Rudefish](./rudefish)
 
 - [Saudi](./saudi)
+
+- [Singucci](./Singucci)
 
 - [shellawk](./shellawk)
 
