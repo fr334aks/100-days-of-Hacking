@@ -1,4 +1,4 @@
-# 190 Days Of Hacking [Road To ____] 
+# 100 Days Of Hacking [Road To ____] 
 
 - [What i intend to learn](./tasks.md)
 
