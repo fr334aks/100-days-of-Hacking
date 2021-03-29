@@ -22,11 +22,11 @@
    
    - [ ] XSS (Cross Site Scripting)
 
-        - [ ] stored xss
+        - [ ] stored XSS
           
-        - [ ] reflected xss
+        - [ ] Reflected XSS
 
-        - [ ] DOM xss
+        - [ ] DOM XSS
         
         - [ ] Prototype Pollutions 
         
@@ -38,7 +38,7 @@
 
     - [ ] Client Side Restriction Bypass
 
-    - [ ] Conntent Security Policy (CSP)
+    - [ ] Content Security Policy (CSP)
 
     - [ ] Insecure Direct Object Reference (IDOR) 
  
@@ -82,7 +82,7 @@
         
         - [ ] Blind
         
-        - [ ] Semi Blind 
+        - [ ] Semi-Blind 
         
         - [ ] Non-Blind
 
