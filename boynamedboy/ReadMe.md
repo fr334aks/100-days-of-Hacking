@@ -8,9 +8,9 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <p>- Also suggest more resources you may have that i may use in this journey...Also comment on my code...Thankyouuuu...😄😄😊😊</p>
 <p>- Looking forwad to learning...</p>
 <img src="./pictures/quote.png" alt="quotes">
-- Check is my tasks list: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/tasks.md">Tasks</a>
-## Task list
-### The list below contain set tasks for the 100daysofHacking
+
+
+- The list below contain set tasks for the 100daysofHacking
 - In some cases, i may divert from the task lists for a while for further research on some of the topics.
 
 -  [x] for complete tasks  
@@ -37,13 +37,13 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Data Representation</summary>
 
-  - [ ] Integer Representation
+  - [x] Integer Representation
 
-  - [ ] Unsigned and Unsigned Edition
+  - [x] Unsigned and Unsigned Addition
 
-  - [ ] Floating point Representation
+  - [x] Floating point Representation
 
-  - [ ] Characters and strings
+  - [x] Characters and strings
 
 </details>
 <details>
