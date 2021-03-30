@@ -9,6 +9,8 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
   
 ## Challengers 
 
+- [3ll_3ll](./3ll_3ll)
+
 - [BADboy17](./BADboy17)
 
 - [BryanTmungai](./BryanTmungai)
@@ -19,15 +21,17 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [CyberRat](./CyberRat)
 
-- [3ll_3ll](./3ll_3ll)
+- [Chal13W1zz](./Chal13W1zz)
 
-- [Fra123](./Fra123)
+- [Darksoul](./Darksoul)
+
+- [Fraize](./Fraize) - Web 
 
 - [Indura](./Indura)
 
 - [Kahure](./kahure)
 
-- [Koimet](./k0imet)
+- [Koimet](./k0imet) - Web 
 
 - [Lynne](./Lynne)
 
@@ -43,9 +47,15 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [Singucci](./Singucci)
 
+<<<<<<< HEAD
 - [shellradi](./shellradi)
 
 - [th3_gr00t](./th3_gr00t)
+=======
+- [shellawk](./shellawk)
+
+- [th3_gr00t](./th3_gr00t) - Mobile 
+>>>>>>> 88f0a125a9de1dc62e21cd076b2c7d6cfd6f74dc
 
 </details>
 

@@ -9,3 +9,5 @@
 	5. Return Oriented Programming
 
 * My resources will include:
+
+[64-bit BOF walkthrough using GDB](https://samsclass.info/127/proj/ED402.htm)
