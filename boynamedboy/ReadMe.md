@@ -49,19 +49,19 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Program format</summary>
 
- - [ ] Comments
+ - [x] Comments
 
- - [ ] Numeric Values
+ - [x] Numeric Values
 
- - [ ] Defining Constants
+ - [x] Defining Constants
 
- - [ ] Data Sections
+ - [x] Data Sections
 
- - [ ] BSS Section
+ - [x] BSS Section
 
- - [ ] Text Section
+ - [x] Text Section
 
- - [ ] Example programs
+ - [x] Example programs
 
 </details>
 <details>
