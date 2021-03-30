@@ -27,6 +27,8 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [Fraize](./Fraize) - Web 
 
+- [Guest Ostrich](./Guest_Ostrich)
+
 - [Indura](./Indura)
 
 - [Kahure](./kahure)
