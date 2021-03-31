@@ -33,6 +33,8 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [Kahure](./kahure)
 
+- [KevinMugo](./KevinMugo)
+
 - [Koimet](./k0imet) - Web 
 
 - [Lynne](./Lynne)
