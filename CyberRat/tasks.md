@@ -8,7 +8,7 @@
 
 # To-Do
 
-
+### First 30 Days 
 - [ ] 25 TJ Null List
 
 <details>
@@ -110,4 +110,30 @@
  - [ ] IppSec Daily
 
 
+ </details>
+
+
+### Second 30 Days 
+
+- [ ] All Machines on Proving Grounds Practice
+
+
+
+<br>
+
+
+
+- [ ] PortSwigger
+
+<details>
+    <summary>Client Side Labs</summary>
+    
+- [ ] Cross-site scripting (XSS)
+- [ ] Cross-site request forgery (CSRF)
+- [ ] Cross-origin resource sharing (CORS)
+- [ ] Clickjacking
+- [ ] DOM-based vulnerabilities
+- [ ] WebSockets  
+
+ 
  </details>
