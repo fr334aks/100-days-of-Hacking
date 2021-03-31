@@ -77,9 +77,38 @@
  
  
  
- - [ ] 1 IppSec Daily
+ - [ ] Additional Materials 
 
 <details>
-    <summary>Medium Machines</summary>
- - [ ] Note Taking
+    <summary>IppSec Daily</summary>
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
+ - [ ] 1 IppSec Daily
  </details>
