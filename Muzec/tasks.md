@@ -11,13 +11,13 @@
 
 - [x]  Introduction To Exploit Development (Buffer Overflows) 
 
-      - [ ] Required Installations
-      - [ ] Buffer Overflows Explained
-      - [ ] Spiking
-      - [ ] Fuzzing
-      - [ ] Finding The Offset
-      - [ ] Overwritting The EIP
-      - [ ] Finding Bad Characters
-      - [ ] Finding The Right Module
-      - [ ] Generating Shellcode And Gaining Root
-      - [ ] Exploit Development Using Python3 And Mona
+     - [ ] Required Installations
+     - [ ] Buffer Overflows Explained
+     - [ ] Spiking
+     - [ ] Fuzzing
+     - [ ] Finding The Offset
+     - [ ] Overwritting The EIP
+     - [ ] Finding Bad Characters
+     - [ ] Finding The Right Module
+     - [ ] Generating Shellcode And Gaining Root
+     - [ ] Exploit Development Using Python3 And Mona
