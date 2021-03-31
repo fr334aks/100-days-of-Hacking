@@ -138,7 +138,7 @@ Documentation
 
 - [ ] Eight components of a solid pentest deliverable
 - [ ] Executive summary
-- [ ]Engagement methodology
+- [ ] Engagement methodology
 - [ ] Attack narrative
 - [ ] Technical observations
 - [ ] Appendices
