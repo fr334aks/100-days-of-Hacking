@@ -136,7 +136,7 @@
 
  
  </details>
-
+<br>
  - [ ] **Additional Materials** 
 
 <details>
@@ -178,4 +178,8 @@
 
 <br>
 <br>
+
 ### Last 30 Days 
+
+- [ ] **Active Directory** 
+- [ ] **Buffer OverFlow** 
