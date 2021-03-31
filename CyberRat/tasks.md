@@ -9,7 +9,7 @@
 # To-Do
 
 ### First 30 Days 
-- [ ] 25 TJ Null List
+- [ ] **25 TJ Null List**
 
 <details>
     <summary>Linux Machines</summary>
@@ -52,7 +52,7 @@
 </details>
 <br>
 
-- [ ] PortSwigger
+- [ ] **PortSwigger**
 
 <details>
     <summary>Server Side Labs</summary>
@@ -73,7 +73,7 @@
  
  
  
- - [ ] Additional Materials 
+ - [ ] **Additional Materials** 
 
 <details>
     <summary>IppSec Daily</summary>
@@ -115,7 +115,7 @@
 
 ### Second 30 Days 
 
-- [ ] All Machines on Proving Grounds Practice
+- [ ] **All Machines on Proving Grounds Practice**
 
 
 
@@ -123,7 +123,7 @@
 
 
 
-- [ ] PortSwigger
+- [ ] **PortSwigger**
 
 <details>
     <summary>Client Side Labs</summary>
