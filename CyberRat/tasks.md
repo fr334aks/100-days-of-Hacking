@@ -9,7 +9,7 @@
 # To-Do
 
 
-- [x] 30 TJ Null List
+- [ ] 30 TJ Null List
 
 <details>
     <summary>client side attacks</summary>
@@ -17,33 +17,6 @@
     
 - [ ] Lame
 - [ ] Blue
-
-
-    <details> 
-        <summary>XSS</summary>
-   
-   - [ ] XSS (Cross Site Scripting)
-
-        - [ ] stored XSS
-          
-        - [ ] Reflected XSS
-
-        - [ ] DOM XSS
-        
-        - [ ] Prototype Pollutions 
-        
-    </details>
-    
-    - [ ] CSRF (Cross Site Request Forgery 
-
-    - [ ] WebSockets 
-
-    - [ ] Client Side Restriction Bypass
-
-    - [ ] Content Security Policy (CSP)
-
-    - [ ] Insecure Direct Object Reference (IDOR) 
- 
     
  </details>
 
