@@ -1,6 +1,6 @@
 ## Task list 
 
-### The list below contain set tasks for the 100daysofWebHacking 
+### The list below contain set tasks for the 100days of Horror 
 
 -  [x] for complete tasks  
 
