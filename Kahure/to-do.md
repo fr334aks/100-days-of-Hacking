@@ -188,6 +188,8 @@
     - [ ] HTTP Request Smuggling
 
     - [ ] Web Cache Poisoning
+    
+    - [ ] API security  
  
     
  </details>
