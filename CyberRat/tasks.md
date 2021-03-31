@@ -52,6 +52,9 @@
 </details>
 
 
+
+
+
 - [ ] PortSwigger
 
 <details>
@@ -71,3 +74,12 @@
  
  
  
+ 
+ 
+ 
+ - [ ] 1 IppSec Daily
+
+<details>
+    <summary>Medium Machines</summary>
+ - [ ] Note Taking
+ </details>
