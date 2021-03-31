@@ -9,13 +9,15 @@
 # To-Do
 
 
-- [x] Introduction to Web Security
+- [x] 30 TJ Null List
 
 <details>
     <summary>client side attacks</summary>
     
     
-- [ ] client side attacks
+- [ ] Lame
+- [ ] Blue
+
 
     <details> 
         <summary>XSS</summary>
