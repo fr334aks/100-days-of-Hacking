@@ -51,10 +51,6 @@
     
 </details>
 <br>
-<br>
-
-
-
 
 - [ ] PortSwigger
 
@@ -72,11 +68,8 @@
 - [ ] XXE injection
  
  </details>
- <br>
-<br>
 
- 
- 
+<br>
  
  
  
