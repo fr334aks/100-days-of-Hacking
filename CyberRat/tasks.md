@@ -9,14 +9,28 @@
 # To-Do
 
 
-- [ ] 30 TJ Null List
+- [ ] 25 TJ Null List
 
 <details>
     <summary>Linux Machines</summary>
     
     
 - [ ] Lame
-- [ ] Blue
+- [ ] Shocker
+- [ ] Nibbles
+- [ ] Beep
+- [ ] Sense
+- [ ] Node
+- [ ] Valentine
+- [ ] Poison
+- [ ] Sunday
+- [ ] Swagshop
+- [ ] Jarvis
+- [ ] Frolic
+- [ ] Haricus
+- [ ] Mango
+- [ ] Admirer
+- [ ] OpenAdmin
     
  </details>
 
@@ -24,6 +38,14 @@
     <summary>Windows Machine</summary>
     
 - [ ] Blue
+- [ ] Granny
+- [ ] Secnotes
+- [ ] BankRobber
+- [ ] Worker
+- [ ] Forest
+- [ ] Silo
+- [ ] Grandpa
+- [ ] Conceal
 
     
     
@@ -33,8 +55,7 @@
 - [ ] PortSwigger
 
 <details>
-    <summary>Server Side Topics</summary>
-    
+    <summary>Server Side Labs</summary>
     
 - [ ] SQL Injection
 - [ ] Authentication
