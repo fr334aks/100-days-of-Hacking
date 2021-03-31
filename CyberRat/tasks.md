@@ -28,3 +28,25 @@
     
     
 </details>
+
+
+- [ ] PortSwigger
+
+<details>
+    <summary>Server Side Topics</summary>
+    
+    
+- [ ] SQL Injection
+- [ ] Authentication
+- [ ] Directory traversal
+- [ ] Command injection 
+- [ ] Business logic vulnerabilities 
+- [ ] Information disclosure 
+- [ ] Access control
+- [ ] Server-side request forgery (SSRF)
+- [ ] XXE injection
+ 
+ </details>
+ 
+ 
+ 
