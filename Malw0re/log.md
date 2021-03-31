@@ -5,4 +5,4 @@
 > As for the resources I'm not limited i'll use others resources found online on my journey.
 
 ````
-⭐ From [packt](https://www.packtpub.com/product/python-automation-cookbook-second-edition/9781800207080) && [udemy](https://www.udemy.com/course/100-days-of-code/)
+⭐ Resources [packt](https://www.packtpub.com/product/python-automation-cookbook-second-edition/9781800207080) && [udemy](https://www.udemy.com/course/100-days-of-code/)
