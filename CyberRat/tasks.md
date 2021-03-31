@@ -112,17 +112,14 @@
 
  </details>
 
-
+<br>
+<br>
 ### Second 30 Days 
 
 - [ ] **All Machines on Proving Grounds Practice**
 
 
-
 <br>
-
-
-
 - [ ] **PortSwigger**
 
 <details>
@@ -137,3 +134,46 @@
 
  
  </details>
+
+ - [ ] **Additional Materials** 
+
+<details>
+    <summary>IppSec Daily</summary>
+    
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+
+
+ </details>
+
+<br>
+<br>
+### Last 30 Days 
