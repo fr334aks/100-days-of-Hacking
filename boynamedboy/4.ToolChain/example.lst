@@ -1,0 +1,88 @@
+     1                                 %line 1+1 example.asm
+     2                                 [section .data]
+     3                                 
+     4                                 
+     5                                 
+     6                                 
+     7                                 EXIT_SUCCESS equ 0
+     8                                 SYS_exit equ 60
+     9                                 
+    10                                 
+    11                                 
+    12 00000000 11                     bVar1 db 17
+    13 00000001 09                     bVar2 db 9
+    14 00000002 00                     bResult db 0
+    15                                 
+    16                                 
+    17                                 
+    18 00000003 6842                   wVar1 dw 17000
+    19 00000005 2823                   wVar2 dw 9000
+    20 00000007 0000                   wResult dw 0
+    21                                 
+    22                                 
+    23                                 
+    24 00000009 40660301               dVar1 dd 17000000
+    25 0000000D 40548900               dVar2 dd 9000000
+    26 00000011 00000000               dResult dd 0
+    27                                 
+    28                                 
+    29                                 
+    30                                 
+    31 00000015 4066030100000000       qVar1 dq 17000000
+    32 0000001D 4054890000000000       qVar2 dq 9000000
+    33 00000025 0000000000000000       qResult dq 0
+    34                                 
+    35                                 
+    36                                 
+    37                                 [section .text]
+    38                                 [global _start]
+    39                                 _start:
+    40                                 
+    41                                 
+    42                                 
+    43                                 
+    44                                 
+    45 00000000 8A0425[00000000]       mov al, byte [bVar1]
+    46 00000007 020425[00000000]       add al, byte [bVar2]
+    47 0000000E 880425[00000000]       mov byte [bResult], al
+    48                                 
+    49                                 
+    50                                 
+    51 00000015 668B0425[00000000]     mov ax, word [wVar1]
+    52 0000001D 66030425[00000000]     add ax, word [wVar2]
+    53 00000025 66890425[00000000]     mov word [wResult], ax
+    54                                 
+    55                                 
+    56                                 
+    57 0000002D 8B0425[00000000]       mov eax, dword [dVar1]
+    58 00000034 030425[00000000]       add eax, dword [dVar2]
+    59 0000003B 890425[00000000]       mov dword [dResult], eax
+    60                                 
+    61                                 
+    62                                 
+    63 00000042 488B0425[00000000]     mov rax, qword [qVar1]
+    64 0000004A 48030425[00000000]     add rax, qword [qVar2]
+    65 00000052 48890425[00000000]     mov qword [qResult], rax
+    66                                 
+    67                                 
+    68                                 
+    69                                 last:
+    70 0000005A 48C7C03C000000         mov rax, SYS_exit
+    71 00000061 48C7C700000000         mov rdi, EXIT_SUCCESS
+    72 00000068 0F05                   syscall
+    73                                 
+    74                                 
+    75                                 
+    76                                 
+    77                                 
+    78                                 
+    79                                 
+    80                                 
+    81                                 
+    82                                 
+    83                                 
+    84                                 
+    85                                 
+    86                                 
+    87                                 
+    88                                 
