@@ -88,7 +88,7 @@
   
 - [ ] OSX shellcode
 
-- [ ] OSX cross platorm shellcode
+- [ ] OSX cross platform shellcode
 
 - [ ] OSX heap exploitation
 
@@ -114,13 +114,21 @@
 </details>
 
 # `Vulnerability Discovery`
-# `Advanced Explot development`
+# `Advanced Exploit development`
 
 # Resources
 <details>
-  <summary>Binary Explotation</summary>
-  
+  <summary>Binary Exploitation</summary>
+   
 - Shellcoders handbook
+
+- The art of assembly language second edition.
+
+- Practical reverse engineering: x86, x64, ARM, Windows Kernel, reversing tools, and obfuscation 
+
+- Reversing: Secrets of reverse engineering
+
+- Practical binary analysis
 
 - [Sam Bowne CNIT 127: Exploit Development](https://samsclass.info/127/127_S21.shtml)
 
