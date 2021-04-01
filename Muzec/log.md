@@ -18,4 +18,7 @@ And we are ready to roll let extract the vulnserver and run it.
 
 ![Image](https://imgur.com/bT4cF4X.png)
 
-Note i copy the window IP and the port 9999 is default in vulnserver.
+Note i copy the window IP and the port 9999 is default in vulnserver and we are done with the set up......
+
+
+####  `Day 2`
