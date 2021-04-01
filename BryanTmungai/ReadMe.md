@@ -2,14 +2,14 @@
 <p>- This repo will contain my journey as i learn: </p>
   <ol>
      <li>Binary Exploitation</li>
-     <li>Explot development</li>
+     <li>Exploit development</li>
      <li>Vulnerability discovery</li>
   </ol>
 <p>- By the end of these 100 days i would like to have grasped:
   <ol>
     <li>x86 and x64 syntax,instruction sets,registers</li>
     <li>writing explots with pwntools</li>
-    <li>explot development</li>
+    <li>exploit development</li>
     <li>vulnerability discovery </li>
   </ol>
 <p> - If time will allow i would love to delve into reverse engineering malware. </p>
@@ -43,7 +43,7 @@
 - [ ] Return oriented programming
 
 
-# `Explot Development`
+# `Exploit Development`
 
 <details>
 <summary>Windows platform</summary>
