@@ -16,7 +16,7 @@ that is left to right while little edian breaks the laws of reletivity by going 
 also files are usualy separated into parts while compling called sections
 .text this parts contains the assembly code that runs the code
 
-<h3>debugers<h3>
+<h3>debugers</h3>
 
 static analysis -this is analyzing code without tunning it.
 
