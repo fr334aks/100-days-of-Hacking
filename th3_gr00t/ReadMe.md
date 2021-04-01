@@ -1,6 +1,6 @@
 ![img](https://img.icons8.com/plasticine/200/000000/android-os.png)
 
-# 100 Days of Learning and Hacking Mobile Application Security (AppSec)
+# 100 Days of AppSec
 
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/29776892/113227685-eedd5180-929b-11eb-88a3-bc0c0e5488fb.png">
@@ -10,8 +10,8 @@
 
 ## Keys;
 
-[ ] Not Completed ❌
-[x] Completed ✔
+-[ ] Not Completed ❌
+-[x] Completed ✔
 
 ## Tasks
 
