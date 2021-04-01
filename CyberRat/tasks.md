@@ -15,7 +15,7 @@
     <summary>Linux Machines</summary>
     
     
-- [ ] Lame
+- [x] Lame
 - [ ] Shocker
 - [ ] Nibbles
 - [ ] Beep
