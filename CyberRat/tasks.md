@@ -1,6 +1,6 @@
 ## Task list 
 
-### The list below contain set tasks for the 100daysofWebHacking 
+### The list below contain set tasks for the 100days of Horror 
 
 -  [x] for complete tasks  
 
@@ -8,153 +8,179 @@
 
 # To-Do
 
-
-- [x] Introduction to Web Security
+### First 30 Days 
+- [ ] **25 TJ Null List**
 
 <details>
-    <summary>client side attacks</summary>
+    <summary>Linux Machines</summary>
     
     
-- [ ] client side attacks
-
-    <details> 
-        <summary>XSS</summary>
-   
-   - [ ] XSS (Cross Site Scripting)
-
-        - [ ] stored XSS
-          
-        - [ ] Reflected XSS
-
-        - [ ] DOM XSS
-        
-        - [ ] Prototype Pollutions 
-        
-    </details>
-    
-    - [ ] CSRF (Cross Site Request Forgery 
-
-    - [ ] WebSockets 
-
-    - [ ] Client Side Restriction Bypass
-
-    - [ ] Content Security Policy (CSP)
-
-    - [ ] Insecure Direct Object Reference (IDOR) 
- 
+- [x] Lame
+- [ ] Shocker
+- [ ] Nibbles
+- [ ] Beep
+- [ ] Sense
+- [ ] Node
+- [ ] Valentine
+- [ ] Poison
+- [ ] Sunday
+- [ ] Swagshop
+- [ ] Jarvis
+- [ ] Frolic
+- [ ] Haricus
+- [ ] Mango
+- [ ] Admirer
+- [ ] OpenAdmin
     
  </details>
 
 <details>
-    <summary>Server Side Attacks</summary>
+    <summary>Windows Machine</summary>
     
-- [ ] Server Side Attacks
+- [ ] Blue
+- [ ] Granny
+- [ ] Secnotes
+- [ ] BankRobber
+- [ ] Worker
+- [ ] Forest
+- [ ] Silo
+- [ ] Grandpa
+- [ ] Conceal
 
-    <details>
-        <summary>SQL Injections</summary>
     
-    - [ ] SQL injections 
-
-        - [ ] In-band sqli
-
-            - [ ]  Error-based SQLi
-        
-            - [ ]  Union-based SQLi
-        
-        - [ ] Inferential SQLi (Blind SQLi)
-      
-            - [ ] Boolean-based (content-based) Blind SQLi
-
-            - [ ] Time-based Blind SQLi
-       
-        - [ ] Out-of-band SQLi
-        
-        - [ ] Sqlite 
-
-        - [ ] GraphQl 
-        
-    </details>
-    
-    <details>
-        <summary>Server-Side Request Forgery</summary>
-    
-    - [ ] Server-Side Request Forgery 
-        
-        - [ ] Blind
-        
-        - [ ] Semi-Blind 
-        
-        - [ ] Non-Blind
-
-    </details>
-    
-    <details>
-        <summary>Server-Side Template Injection</summary>
-    
-    - [ ] Server-Side Template Injection
-        
-        - [ ] Jinja2 
-    
-    </details>   
-    
-    - [ ] File Uploads 
-       
-    - [ ] LDAP Injections
-
-    - [ ] Command Injection 
-
-    <details>
-        <summary>File inclusions</summary>
-    
-    - [ ] File Inclusions 
-
-        - [ ] LFI 
-
-        - [ ] RFI
-        
-    </details>
-    
-    <details>
-        <summary>XXE</summary>
-    
-    - [ ] XXE 
-
-        - [ ] in-band  
-
-        - [ ] out-of-band (OOB-XXE)
-    
-    </details>
-    
-    <details>
-        <summary>PHP</summary>
-    
-    - [ ] PHP
-     
-        - [ ] Type Juggling
-        
-        - [ ] Object Injection/Deserialization
-        
-    </details>
-            
-    <details>
-        <summary>Java</summary>
-        
-    
-    - [ ] Java 
-
-        - [ ] Deserialization 
-    
-    </details>
-
-    <details>
-        <summary>Python</summary>
-    
-    - [ ] Python 
-    
-        - [ ] Deserialization (pickle)
-
-        - [ ] Deserialization (yaml)
-    
-    </details>
     
 </details>
+<br>
+
+- [ ] **PortSwigger**
+
+<details>
+    <summary>Server Side Labs</summary>
+    
+- [ ] SQL Injection
+- [ ] Authentication
+- [ ] Directory traversal
+- [ ] Command injection 
+- [ ] Business logic vulnerabilities 
+- [ ] Information disclosure 
+- [ ] Access control
+- [ ] Server-side request forgery (SSRF)
+- [ ] XXE injection
+ 
+ </details>
+
+<br>
+ 
+ 
+ 
+ - [ ] **Additional Materials** 
+
+<details>
+    <summary>IppSec Daily</summary>
+    
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+
+
+ </details>
+
+<br>
+<br>
+
+### Second 30 Days 
+
+- [ ] **All Machines on Proving Grounds Practice**
+
+
+<br>
+
+- [ ] **PortSwigger**
+
+<details>
+    <summary>Client Side Labs</summary>
+    
+- [ ] Cross-site scripting (XSS)
+- [ ] Cross-site request forgery (CSRF)
+- [ ] Cross-origin resource sharing (CORS)
+- [ ] Clickjacking
+- [ ] DOM-based vulnerabilities
+- [ ] WebSockets  
+
+ 
+ </details>
+<br>
+
+ - [ ] **Additional Materials** 
+
+<details>
+    <summary>IppSec Daily</summary>
+    
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+ - [ ] IppSec Daily
+
+
+ </details>
+
+<br>
+<br>
+
+### Last 30 Days 
+
+- [ ] **Active Directory** 
+- [ ] **Buffer OverFlow** 

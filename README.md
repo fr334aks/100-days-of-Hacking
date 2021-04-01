@@ -27,15 +27,21 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [Fraize](./Fraize) - Web 
 
+- [Guest Ostrich](./Guest_Ostrich)
+
 - [Indura](./Indura)
 
 - [Kahure](./kahure)
+
+- [KevinMugo](./KevinMugo)
 
 - [Koimet](./k0imet) - Web 
 
 - [Lynne](./Lynne)
 
-- [Muzec](./muzec)
+- [Muchi](./Muchi)
+
+- [Muzec](./Muzec)
 
 - [Malw0re](./Malw0re)
 
@@ -47,15 +53,14 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [Singucci](./Singucci)
 
-<<<<<<< HEAD
 - [shellradi](./shellradi)
 
 - [th3_gr00t](./th3_gr00t)
-=======
+
 - [shellawk](./shellawk)
 
 - [th3_gr00t](./th3_gr00t) - Mobile 
->>>>>>> 88f0a125a9de1dc62e21cd076b2c7d6cfd6f74dc
+
 
 </details>
 
