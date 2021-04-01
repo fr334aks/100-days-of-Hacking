@@ -67,25 +67,41 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Tool Chain</summary>
 
-  - [ ] Assemble/Link/Load Overview
+  - [x] Assemble/Link/Load Overview
 
-  - [ ] Assembler
+  - [x] Assembler
 
-  - [ ] Linker
+  - [x] Linker
 
-  - [ ] Assemble/Link Scripts
+  - [x] Assemble/Link Scripts
 
-  - [ ] Loader
+  - [x] Loader
 
-  - [ ] Debugger
+  - [x] Debugger
 
 </details>
 <details>
   <summary>DDD</summary>
 
-  - [ ] Starting DDD
+  - [x] Starting DDD
 
-  - [ ] Program execution with DDD
+  - [x] Program execution with DDD
+
+  - [x] Setting Breakpoints
+
+  - [x] Executing programs
+
+  - [x] Continue/run
+
+  - [x] Step/next
+
+  - [x] Displaying Register Contents
+
+  - [x] GDB/DDD commands
+
+  - [x] Displaying stack contents
+
+  - [x] Debugger commands File(non-interactive)
 
 </details>
 <details>
