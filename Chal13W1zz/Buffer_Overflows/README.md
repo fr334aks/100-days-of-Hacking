@@ -7,7 +7,7 @@
  an executed binary application allocates memory in a very specific way, within the memory boundaries used by the modern computers
  
  Process Memory Allocation in windows Btwn The lowest and the highest memory addresses
- [image process mem alloc]
+ ![image process mem alloc](ss/win-process-mem-alloc.png)
  
 # The Stack
  a running thread executes code within the program image or from various dll's loaded by the application
@@ -18,18 +18,18 @@
  
 # Function Return Mechanics
  When code within a thread calls a func, it must know which addr to return to once the func completes, the return addr along with the func params and local vars is stored in the stack. this coll of data is associated with one func call and is stored in a stack frame (A section of the stack memory)
- [image stack frame]
+ ![image stack frame](ss/Stack_Frame.png)
  when a func ends, the RA is taken from the stack and used to restore the exec flow back to the main prog or the calling func.
  
 # Cpu Registers
 Small extreemely high speed cpu storage locations where data can be effeciently read or manipulated(They aid in performing effecient code exec)
 They are  9, 32bit
  Their names were initially established for 16bits registers and then were extended with the advent the 32bit platform
- [image registers]
+ ![image registers](ss/Registers.png)
  E in the registers accronyms means extended
   
   Each register may contain a 32, 16 or 8 bit value in the respective sub-registers
-  [image sub-register]
+  ![image sub-register](ss/sub-register.png)
   
 # General Purpose Registers
  Used to store temporary data
