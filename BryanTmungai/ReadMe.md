@@ -1,17 +1,20 @@
 # 100 DAYS OF HACKING ROADMAP
 <p>- This repo will contain my journey as i learn: </p>
-<ol>
-  <li>Binary Exploitation</li>
-  <li>Explot development</li>
-  <li>Vulnerability discovery</li>
-</ol>
+  <ol>
+     <li>Binary Exploitation</li>
+     <li>Explot development</li>
+     <li>Vulnerability discovery</li>
+  </ol>
 <p>- By the end of these 100 days i would like to have grasped:
-  <p>- x86 and x64 syntax,instruction sets,registers 
-  <p>- writing explots with pwntools
-  <p>- explot development 
-  <p>- vulnerability discovery 
+  <ol>
+    <li>x86 and x64 syntax,instruction sets,registers</li>
+    <li>writing explots with pwntools</li>
+    <li>explot development</li>
+    <li>vulnerability discovery </li>
+  </ol>
 <p> - If time will allow i would love to delve into reverse engineering malware. </p>
 <p> - This repo will also contain the resources that i will be using and some which i will find along the way. </p>
+
 
 - [x] For complete tasks
 
@@ -43,7 +46,24 @@
 # `Explot Development`
 
 <details>
+<summary>Windows platform</summary>
+  
+- [ ] Windows Api 
+
+- [ ] Windows shellcode
+
+- [ ] Stack based buffer overflows
+
+- [ ] Heap based overlows
+
+- [ ] Overcoming filters
+
+- [ ] protection mechanisms
+</details>
+
+<details>
   <summary>Solaris platform</summary>
+  
 - [ ] Introduction to SPARC architecture
 
 - [ ] Sparc shellcode basics
@@ -62,21 +82,7 @@
 
 - [ ] protection mechanisms
 </details>
-<details>
-<summary>Windows platform</summary>
-  
-- [ ] Windows Api 
 
-- [ ] Windows shellcode
-
-- [ ] Stack based buffer overflows
-
-- [ ] Heap based overlows
-
-- [ ] Overcoming filters
-
-- [ ] protection mechanisms
-</details>
 <details>
   <summary>OSX platform</summary>
   
