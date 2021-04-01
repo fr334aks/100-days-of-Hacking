@@ -6,3 +6,11 @@
 
 ````
 ⭐ Resources [packt](https://www.packtpub.com/product/python-automation-cookbook-second-edition/9781800207080) && [udemy](https://www.udemy.com/course/100-days-of-code/)
+
+````bash
+> help --info
+> Day 001.
+> Started out with basic strings, printing, variables, Numbers & Math
+> you can check out folder 001 for the days activity
+
+```

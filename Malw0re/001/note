@@ -1,0 +1,18 @@
+#Day 001
+->I'm not new to python though but i'll be doing a full deep refresher.
+->I'm using Learn Python The Hard Way as a resource material
+->Starting out with the familiarising myself with the basics.
+
+##Variables
+-> Case sensitive
+-> Can't start with a number
+
+## Naming conventions of variables
+    Camel Casing 'Each word starts with caps except the first' myVaribleGood
+    Snake Casing 'Each word is seperate by an underscore' `my_variable`
+    Pascal Casing  'Each word starts with a capital letter' MyVariableIs
+
+## Formatting Characters.
+%r,%d,%s r -> Must d -> Digits s -> strings
+
+
