@@ -2,4 +2,4 @@
 
 - Didn't do much on my Day 1 Sadly 
 
-[summary](./Summary/Day1/Readme.md) 
+[summary](./K0imet/Summary/Day1/Readme.md) 
