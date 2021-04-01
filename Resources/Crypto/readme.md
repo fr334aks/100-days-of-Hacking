@@ -1,0 +1,1 @@
+https://medium.com/@browninfosecguy/active-directory-lab-for-penetration-testing-5d7ac393c0c4
