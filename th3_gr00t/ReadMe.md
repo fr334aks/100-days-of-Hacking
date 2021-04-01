@@ -10,13 +10,14 @@
 
 ## Keys;
 
--[ ] Not Completed ❌
--[x] Completed ✔
+- [ ] Not Completed ❌
+- [x] Completed ✔
 
 ## Tasks
 
-- [Tasks/logs](./tasks.md).
+- [Tasks](./tasks.md).
+- [Logs](./logs.md)
 
 ## Resources
 
-- I will be using the following [resources](./resources.md).
+- [Resources](./resources.md).
