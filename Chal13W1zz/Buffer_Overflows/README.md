@@ -1,4 +1,5 @@
-Buffer Overflow - A type of a memory corruption Vulnerability
+# Buffer Overflow 
+- A type of a memory corruption Vulnerability
 -can be used to control the exectution flow of an application 
 
 ## Introduction To The X_86 Architecture
@@ -32,20 +33,20 @@ They are  9, 32bit
   
 # General Purpose Registers
  Used to store temporary data
- EAX - Accumulator = used for Arithmetical n Logical Instructions
- EBX - Base Pointer For Memory Addresses
- ECX - Count Register used for Loop, Shift and Rotation Counter
- EDX - Used For I/O port addressing , Multipplication and division
- ESI - Source Index Used as A pointer addressing the data source in string copy operations 
- EDI - Destination index used as a pointer addressing the destination memory buffer in string copy operations  
+ - EAX - Accumulator = used for Arithmetical n Logical Instructions
+ - EBX - Base Pointer For Memory Addresses
+ - ECX - Count Register used for Loop, Shift and Rotation Counter
+ - EDX - Used For I/O port addressing , Multipplication and division
+ - ESI - Source Index Used as A pointer addressing the data source in string copy operations 
+ - EDI - Destination index used as a pointer addressing the destination memory buffer in string copy operations  
  
 # ESP, EBP and EIP 
- ESP - The Stack Pointer = keeps the track of the most recently referenced location on the stack by storing a pointer to it
+ - ESP - The Stack Pointer = keeps the track of the most recently referenced location on the stack by storing a pointer to it
  - ->a pointer is a ref to an address or a location in memory 
  registers store target address
  -Since the stack is in constant flux storing the execution of a thread, it's hard for a func to locate it's own stack frame, therefore need for an ebp 
- EBP - The Base Pointer = Stores a pointer to the top of the stack when a func is called  
+ - EBP - The Base Pointer = Stores a pointer to the top of the stack when a func is called  
  A func can esily ref info from its own stack frame via offsets while exec
- EIP- The Instruction Pointer = always points to the next code instruction to be executed (Directs the flow of a program)
+ - EIP- The Instruction Pointer = always points to the next code instruction to be executed (Directs the flow of a program)
  
  ##
