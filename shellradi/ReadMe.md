@@ -5,6 +5,8 @@ _materials_
 > 
 The Art of Network Penetration Testing: How to take over any company in the world
 by @RoyceDavis (Author)
+
+> @TCMs pentest resources https://github.com/jkose002/Practical-Ethical-Hacking-Resources
 ### 1 Network penetration testing 
 
 - [ ] Corporate data breaches
