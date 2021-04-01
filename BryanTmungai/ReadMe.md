@@ -1,19 +1,23 @@
--This repo will contain my journey as i learn:
+# 100 DAYS OF HACKING ROADMAP
+- This repo will contain my journey as i learn:
 <ol>
   <li>Binary Exploitation</li>
   <li>Explot development</li>
 </ol>
--If time will allow i would love to delve into reverse engineering malware.
--This repo will also contain the resources that i will be using and some which i will find along the way.
+<p> - If time will allow i would love to delve into reverse engineering malware. </p>
+<p> - This repo will also contain the resources that i will be using and some which i will find along the way. </p>
 
 - [x] For complete tasks
+
 - [ ] For incomplete tasks
 
 # To-Do
 <details>
   <summary>Binary explotation</summary>
   
-- [ ] x86 and x64 assembly
+- [x] Refesher on x86 assembly
+
+- [ ] Refresher on x64 assembly
 
 - [ ] Using and customizing gdb
 
