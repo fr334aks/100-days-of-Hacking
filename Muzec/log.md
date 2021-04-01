@@ -16,4 +16,6 @@ Windows 10 running on Virtualbox Let Get Immunity Debugger and Vulnserver instal
 
 And we are ready to roll let extract the vulnserver and run it.
 
+![Image](https://imgur.com/bT4cF4X.png)
 
+Note i copy the window IP and the port 9999 is default in vulnserver.
