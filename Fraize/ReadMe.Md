@@ -3,7 +3,7 @@
 - I will be going through Web Security during the period.
 
 #### SERVER SIDE ATTACKS
-* [ ] SQL injection
+* [x] SQL injection
 * [ ] Authentication
 * [ ] Directory Traversal
 * [ ] Command Injection
