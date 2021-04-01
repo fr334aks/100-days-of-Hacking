@@ -6,6 +6,9 @@
 -  [x] for complete tasks  
 
 -  [ ] for incomplete tasks 
+###WEB SECURITY
+
+
 
 #### SERVER SIDE ATTACKS
 * [ ] SQL injection
@@ -35,3 +38,7 @@
 * [ ] HTTP Host header aattacks
 * [ ] HTTP request smuggling
 * [ ] OAuth authentication
+
+
+###DIGITAL FORENSICS
+*[X] Analyse forensic files

@@ -1,4 +1,4 @@
-## 100DaysOfWebHacking 
+## 100DaysOfHacking 
 
 - [What i intend to learn](./task.md)
 
