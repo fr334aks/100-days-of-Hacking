@@ -16,5 +16,4 @@ Windows 10 running on Virtualbox Let Get Immunity Debugger and Vulnserver instal
 
 And we are ready to roll let extract the vulnserver and run it.
 
-![Image](https://imgur.com/GubEWkk.png)
 
