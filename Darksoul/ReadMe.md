@@ -56,11 +56,4 @@ I THink its enough for every one 👎
 + Jailbreaks and Pirate Tractors: Reverse Engineering Do’s and Don’ts
 + Timelines
 + Symbolic execution timeline
-+ ===============================================================================================================================================================================
-#Videos
-+ The Best Campfire Tales that Reverse Engineers Tell — Travis Goodspeed with Sergey Bratus
-+ Jailbreaks and Pirate Tractors: Reverse Engineering Do’s and Don’ts
-+ Introduction to Reversing and Pwning — David Weinman — BsidesLV ProvingGrounds17
-+ Things that are interesting/don’t fit elsewhere
-+ Things that Don’t fit elsewhere
 
