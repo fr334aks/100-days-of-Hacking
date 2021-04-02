@@ -108,7 +108,7 @@
     
     - [ ] File Inclusions 
 
-        - [ ] LFI 
+        - [X] LFI 
 
         - [ ] RFI
         
