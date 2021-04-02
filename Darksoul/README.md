@@ -5,7 +5,7 @@ So there we go :-
 
 # Assembly Fundamentals
 
-*LiveOverflow BiOpenSecurityTraining.info: Introductory Intel x86🌟
+*LiveOverflow BiOpenSecurityTraining.info: Introductory Intel x86🌟https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
 *Practical Reverse Engineering🌟💬
 *Practical Malware Analysis🌟💬
 *Assembly Language Step-by-Step: Programming with Linux
