@@ -1,6 +1,6 @@
 ## Day 1 
 
-- [Introduction to digital files forensics](.\day1)
+- [Introduction to digital files forensics](./day1)
 - Useful commands:
     ~file
     ~base64
@@ -10,4 +10,4 @@
     ~zip
 
 ## Day 2
-- [File upload restrictions bypass](.\day2)
+- [File upload restrictions bypass](./day2)
