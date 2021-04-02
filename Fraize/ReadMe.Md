@@ -4,6 +4,12 @@
 
 #### SERVER SIDE ATTACKS
 * [x] SQL injection
+  * [x] Types of SQLi
+  * [x] SQLi Examples
+  * [x] Examining the database
+  * [x] Detecting SQL injection vulnerabilities
+  * [x] SQL injection in different parts of the query
+  * [x] Preventing SQLi  
 * [ ] Authentication
 * [ ] Directory Traversal
 * [ ] Command Injection
