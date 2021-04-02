@@ -168,7 +168,7 @@ Binary Hooking Problems
 Hyper-V debugging for beginners
 Decompilers & Disassemblers
 IDA
-Overview & Tutorials
+#Overview & Tutorials
 fREedom is a primitive attempt to provide an IDA Pro independent means of extracting disassembly information from executables for use with binnavi (https://github.com/google/binnavi).
 Hopper
 Reverse
