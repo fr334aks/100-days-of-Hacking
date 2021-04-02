@@ -55,8 +55,6 @@ This challenge runs from Thursday 1st April 2021 to Saturday 10th July 2021
 
 - [shellradi](./shellradi)
 
-- [th3_gr00t](./th3_gr00t)
-
 - [shellawk](./shellawk)
 
 - [th3_gr00t](./th3_gr00t) - Mobile 
