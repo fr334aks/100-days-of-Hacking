@@ -20,7 +20,7 @@
 * [ ] Access Control
 * [ ] Server-Side Request Forgery
 * [ ] XXE Injection
-* [ ] File Upload and Bypassing File Extention Restrictions
+* [X] File Upload and Bypassing File Extention Restrictions
 
 #### CLIENT SIDE ATTACKS
 * [ ] Cross-Site Scripting (xss)
