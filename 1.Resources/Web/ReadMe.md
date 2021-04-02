@@ -4,7 +4,7 @@
 
 ### SQL injection
 
-- [SQL Injection(RedTiger’s Hackit)Part 1](https://link.medium.com/hLNBnJzNX9]
+- [SQL Injection(redtiger.lab)Part 1](https://link.medium.com/hLNBnJzNX9)
 
   - [SQL Injection(redtiger.lab)-Part2](https://link.medium.com/tU7YK9JsZ9)
 
