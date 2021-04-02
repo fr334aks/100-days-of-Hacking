@@ -107,6 +107,8 @@
 
 - [Portswigger Directory Traversal](https://portswigger.net/web-security/file-path-traversal)
 
+- [PHP fopen() function to LFI](https://xhzeem.me/posts/PHP-fopen-function-to-local-file-inclusion/read/)
+
 
 <details>
   <summary>Labs and Exercises</summary>
