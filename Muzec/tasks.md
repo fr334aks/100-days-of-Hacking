@@ -12,8 +12,8 @@
 - [x]  Introduction To Exploit Development (Buffer Overflows) 
 
      - [x]  Required Installations
-     - [ ] Buffer Overflows Explained
-     - [ ] Spiking
+     - [x]  Buffer Overflows Explained
+     - [x]  Spiking
      - [ ] Fuzzing
      - [ ] Finding The Offset
      - [ ] Overwritting The EIP
