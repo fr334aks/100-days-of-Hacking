@@ -16,7 +16,7 @@
     
     
 - [x] Lame
-- [ ] Shocker
+- [x] Shocker
 - [ ] Nibbles
 - [ ] Beep
 - [ ] Sense
