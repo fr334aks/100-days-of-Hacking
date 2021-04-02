@@ -11,7 +11,7 @@
 
 - [x]  Introduction To Exploit Development (Buffer Overflows) 
 
-     - [ ] Required Installations
+     - [x]  Required Installations
      - [ ] Buffer Overflows Explained
      - [ ] Spiking
      - [ ] Fuzzing
