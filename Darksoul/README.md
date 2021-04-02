@@ -5,9 +5,9 @@ So there we go :-
 
 # Assembly Fundamentals
 
-*LiveOverflow BiOpenSecurityTraining.info: Introductory Intel x86🌟https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
-*Practical Reverse Engineering🌟💬
-*Practical Malware Analysis🌟💬
+*LiveOverflow BiOpenSecurityTraining.info: Introductory Intel x86🌟 "https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN"
+*Practical Reverse Engineering🌟💬  "https://opensecuritytraining.info/IntroX86.html"
+*Practical Malware Analysis🌟💬     "https://www.pdfdrive.com/practical-reverse-engineering-x86-x64-arm-windows-kernel-reversing-tools-and-obfuscation-d175193950.html"
 *Assembly Language Step-by-Step: Programming with Linux
 *Wikibooks: x86 Disassembly
 *Eli Bendersky: Where the top of the stack is on x86
