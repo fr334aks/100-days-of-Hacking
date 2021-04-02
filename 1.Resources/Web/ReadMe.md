@@ -1,6 +1,6 @@
 # Recurrent Web Hacking Resources per category
 
-## SERVER SIDE ATTACKS
+### SERVER SIDE ATTACKS
 
 ### SQL injection
 
@@ -12,6 +12,9 @@
 
 
 - [Portswigger,SQLi](https://portswigger.net/web-security/sql-injection)
+
+- [Rayhan,Automating Blind SQLi over Websockets](https://rayhan0x01.github.io/ctf/2021/04/02/blind-sqli-over-websocket-automation.html)
+
 
 #### Videos
 
