@@ -43,6 +43,7 @@ Contains the database files and processes that store and manage directory inform
 **Logical Componets of Active Directory **
 
 **AD DS schema **
+
 Defines objects that can be created in the active directory
 
 
@@ -64,7 +65,9 @@ A collection of one or more domain trees
 
  **Organisational units (OUs)**
 Containers that can contain users,groups,computers and other OUs 
+
  **Trusts **
+ 
  Provide a mechanism for users to gain access to resources in another domains
  
  **Objects **
