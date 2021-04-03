@@ -112,7 +112,7 @@ while True:
     except:
         print ("The fuzzing crashed at %s bytes" % str(len(buffer)))
         sys.exit()
-        ```
+   ```
 The code does the following:
 
 1. Sets the variable “buffer” equal to 100 A’s.
