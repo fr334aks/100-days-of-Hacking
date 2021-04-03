@@ -1,6 +1,6 @@
-I will documenting my journeyin the 100 days of hacking challenge 
+I will documenting my journey in the 100 days of hacking challenge 
 
-During the first month I will focus on  active Directory penetration testing 
+During the first month I will focus on  Active Directory penetration testing 
 
 My objectives for the period are:
 
