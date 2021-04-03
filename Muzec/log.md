@@ -127,7 +127,7 @@ Now let check our vulnserver also.
 
 ![Image](https://imgur.com/VN8UUwl.png)
 
-Crashed and what is my goals?? my goals is find way to control the EIP to point our malicious code so we get shell/root.
+Crashed and what is my goals?? my goals is to find a way to control the EIP so i can point our malicious code to it so we can get a shell/root.
 
 ![Image](https://imgur.com/XiytejS.png)
 
