@@ -1,5 +1,5 @@
 ####  `Day 1`
-<p>-Enumerated Attacked And Rooted Lame On HTB in 1 Hour | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/lame">Day 
+<p>-Enumerated Attacked And Rooted Lame On HTB in 1 Hour | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/lame.md".>Day 
 1</a></p>
 
 
@@ -9,14 +9,14 @@
 <p>-Watched IppSec - Walkthrough</p>
 
 ####  `Day 2`
-<p>- Enumerated Attacked And Rooted Shocker On HTB in 9 Hour | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Shocker">Day 
+<p>- Enumerated Attacked And Rooted Shocker On HTB in 9 Hour | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Shockermd">Day 
 1</a></p>
 <p>-Continued SQL Lab on PortSwigger </p
 <p>- Link to summary provided here: <a href="https://#">Day 2</a></p>
 
 
 ####  `Day 3`
-<p>- Enumerated Attacked And Rooted Nibbles On HTB in 4 Hour | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Nibbles">Day 
+<p>- Enumerated Attacked And Rooted Nibbles On HTB in 4 Hour | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Nibbles.md">Day 
 1</a></p>
 <p>-Continued SQL Lab on PortSwigger </p
 <p>- Link to summary provided here: <a href="https://#">Day 2</a></p>
