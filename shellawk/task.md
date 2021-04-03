@@ -27,7 +27,7 @@
 * [ ] Cross-Site Request Forgery (CSRF)
 * [ ] Cross-Origin Resource Sharing (CORS)
 * [ ] Clickjacking
-* [ ] Content Security Policy Bypass (CSP)
+* [X] Content Security Policy Bypass (CSP)
 * [ ] DOM-Based vulnerabilities
 * [ ] Websockets
 

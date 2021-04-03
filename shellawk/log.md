@@ -11,3 +11,7 @@
 
 ## Day 2
 - [File upload restrictions bypass](./day2)
+
+## day 3
+
+-[Content Security Policy Bypass](./day3)
