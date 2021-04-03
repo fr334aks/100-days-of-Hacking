@@ -107,21 +107,29 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Instruction Set Overview</summary>
 
-  - [ ] Notation Convections
+  - [X] Notation Convections
 
-    - [ ] Data Movement
+    - [X] Data Movement
 
-    - [ ] Addresses and Values
+    - [x] Addresses and Values
 
-  - [ ] Conversion Instructions
+  - [x] Conversion Instructions
 
-      - [ ] Narrowing Conversions
+      - [x] Narrowing Conversions
 
-      - [ ] Widening Convections
+      - [x] Widening Conversions
 
-      - [ ] Unsigned Conversions
+      - [x] Unsigned Conversions
 
   - [ ] Integer Arithmetic Instructions
+
+      - [x] Addtion Instructions
+
+      - [x] Subtraction instructions
+
+      - [ ] Integer Multiplication
+
+      - [ ] Integer division
 
   - [ ] Logic Instructions
 
