@@ -21,6 +21,7 @@ Componets of Active Directory
 
 
 **Physical components of Active Directory**
+
 1.Domain controller 
 Server with the AD DS role installed that has been promoted to domain controller 
 -Hosts a copy AD DS directory  store 
@@ -30,6 +31,7 @@ Server with the AD DS role installed that has been promoted to domain controller
 
 
 2.AD DS data store 
+
 Contains the database files and processes that store and manage directory information for users,services and applications 
 -Consists ofthe Ntds.dit file 
 -Stored by default in the %systemRoot%\NTDS folder on all domain controllers 
@@ -46,7 +48,6 @@ Contains the database files and processes that store and manage directory inform
 
 Defines objects that can be created in the active directory
 
-
 **Domains**
 
 Used to group and manage objects in organisatons 
@@ -59,11 +60,13 @@ Used to group and manage objects in organisatons
 A hierachy of domains 
  
  **Forest**
+ 
 A collection of one or more domain trees 
  
  ![image](https://user-images.githubusercontent.com/36562081/113490304-dce4f400-94d1-11eb-8b56-e57a8675585a.png)
 
  **Organisational units (OUs)**
+ 
 Containers that can contain users,groups,computers and other OUs 
 
  **Trusts **
