@@ -26,6 +26,29 @@ And we are ready to roll let extract the vulnserver and run it.
 
 Note i copy the window IP and the port 9999 is default in vulnserver and we are done with the set up......
 
+`Anatomy Of The Stack`
+
+When we look into the memory stack, we will find 4 main components:
+
+1. Extended Stack Pointer (ESP)
+
+2. Buffer Space
+
+3. Extended Base Pointer (EBP)
+
+4. Extended Instruction Pointer (EIP) / Return Address
+
+![Image](https://imgur.com/3RnwFcW.png)
+
+We really need to focus on the buffer space and the EIP. Buffer space is used as a storage area for memory in some coding languages. With proper input sanitation, information placed into the buffer space should never travel outside of the buffer space itself. Another way to think of this is that information placed into the buffer space should stop at the EBP.
+
+![Image](https://imgur.com/RyAxTqu.png)
+
+A number of A’s (x41) were sent to the buffer space, but were correctly sanitized. The A’s did not escape the buffer space and thus, no buffer overflow occurred. Now, let’s look at an example of a buffer overflow.
+
+![Image](https://imgur.com/cAAxPg7.png)
+
+Now, the A’s have completely escaped the buffer space and have actually reached the EIP. This is an example of a buffer overflow and how poor coding can become dangerous. If an attacker can gain control of the EIP, he or she can use the pointer to point to malicious code and gain a reverse shell.  which we are planning to do now.
 
 ####  `Day 2`
 
