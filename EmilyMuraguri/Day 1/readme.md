@@ -1,6 +1,8 @@
 Active Directory  is a directory service developed by microsoft to manage windows domain Networks.It stores information related objects such as computers and users.Authenticates using kerbros tickets.Non-windows devices can authenticate via LDAP and RADIUS 
 
 How kerberos Works 
+
+
 ![image](https://user-images.githubusercontent.com/36562081/113490267-a313ed80-94d1-11eb-9281-6f461b7274a6.png)
 
 
@@ -46,6 +48,7 @@ Defines objects that can be created in the active directory
 Domains
 
 Used to group and manage objects in organisatons 
+
 ![image](https://user-images.githubusercontent.com/36562081/113490288-c6d73380-94d1-11eb-9d95-d3048f03f4b6.png)
 
 
