@@ -5,3 +5,7 @@
 ### `Day 2`
 - Went through Authentication Vulnerabilities, more specifically Password-based vulnerabilities and how to brute-force them.
 - Link to Summary : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/2.Authentication">Day 2</a>
+
+### `Day 3`
+- Went through multi-factor authentication vulnerabilities.
+- Link to Summary : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/3.Authentication">Day 3</a>
