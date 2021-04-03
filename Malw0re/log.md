@@ -20,3 +20,10 @@
 > Worked with paramters, Unpacking, and more Variables.
 > Folder 002 has the day activity.
 ````
+
+````bash
+> help --info
+> Day 003 
+> Working with functions, reading files return statements
+> As usual folder 003 has details
+````
