@@ -14,7 +14,7 @@
      - [x]  Required Installations
      - [x]  Buffer Overflows Explained
      - [x]  Spiking
-     - [ ] Fuzzing
+     - [x]  Fuzzing
      - [ ] Finding The Offset
      - [ ] Overwritting The EIP
      - [ ] Finding Bad Characters
