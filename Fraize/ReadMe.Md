@@ -15,11 +15,11 @@
   * [x] Vulnerabilities in authentication mechanisms
   * [x] Vulnerabilities in password-based login
     * [x] Brute-force attacks 
-  * [ ] Vulnerabilities in multi-factor authentication
-    * [ ] Two-factor authentication tokens
-    * [ ] Bypassing two-factor authentication
-    * [ ] Flawed two-factor verification logic
-    * [ ] Brute-forcing 2FA verification codes
+  * [x] Vulnerabilities in multi-factor authentication
+    * [x] Two-factor authentication tokens
+    * [x] Bypassing two-factor authentication
+    * [x] Flawed two-factor verification logic
+    * [x] Brute-forcing 2FA verification codes
   * [ ] Vulnerabilities in other authentication mechanisms.   
 * [ ] Directory Traversal
 * [ ] Command Injection
