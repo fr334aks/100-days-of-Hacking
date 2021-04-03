@@ -21,6 +21,6 @@ nibbles rooted
 Time to user : 4 Hours
 Time to Root : 20 Seconds
 
+![image](https://user-images.githubusercontent.com/12541755/113473673-99867900-9430-11eb-9c63-10f0cfdb951c.png)
 
-https://imgur.com/b7v9prS.png
 
