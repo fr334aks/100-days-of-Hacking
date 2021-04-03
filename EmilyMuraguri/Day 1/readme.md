@@ -23,6 +23,7 @@ Componets of Active Directory
 **Physical components of Active Directory**
 
 1.Domain controller 
+
 Server with the AD DS role installed that has been promoted to domain controller 
 -Hosts a copy AD DS directory  store 
 -Provide authentication and authorization services 
