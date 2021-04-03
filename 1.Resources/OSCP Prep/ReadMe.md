@@ -57,7 +57,7 @@
 
 - [h4ck,cheetsheet](https://h4ck.co/wp-content/uploads/2018/06/cheatsheet.txt)
 
-- (sushant747,total-oscp-guide](https://sushant747.gitbooks.io/total-oscp-guide/reverse-shell.html)
+- [sushant747,total-oscp-guide](https://sushant747.gitbooks.io/total-oscp-guide/reverse-shell.html)
 
 - [jok3rsecurity](https://jok3rsecurity.com/cheat-sheet/)
 
@@ -84,7 +84,8 @@
 - [weaknetlabs,Penetration-Testing-Grimoir](https://github.com/weaknetlabs/Penetration-Testing-Grimoire?files=1)
 
 - [OlivierLaflamme,Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God?files=1
-https://medium.com/@cymtrick/oscp-cheat-sheet-5b8aeae085ad)
+
+- [cymtrick.oscp-cheat-sheet](https://medium.com/@cymtrick/oscp-cheat-sheet-5b8aeae085ad)
 
 
 ## Linux Privilege Escalation :‌
@@ -109,9 +110,10 @@ https://medium.com/@cymtrick/oscp-cheat-sheet-5b8aeae085ad)
 - [LinEnum.sh](https://github.com/rebootuser/LinEnum)
 
 - [linpeas.sh](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS)
-\
+
 - [Linprivchecker](https://github.com/sleventyeleven/linuxprivchecker)
-pspy (https://github.com/DominicBreuker/pspy) (crontabs)
+
+- [pspy](https://github.com/DominicBreuker/pspy) 
 
 
 ## Windows Privilege Escalation :
