@@ -48,7 +48,7 @@ a)persistence:
 
 b)Command & control
 
-Forensics - Macro, pcap and img files
+Forensics - Wav ,Macro, Pcap and memory files
 
 
 
