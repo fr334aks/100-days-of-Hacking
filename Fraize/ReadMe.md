@@ -20,7 +20,11 @@
     * [x] Bypassing two-factor authentication
     * [x] Flawed two-factor verification logic
     * [x] Brute-forcing 2FA verification codes
-  * [ ] Vulnerabilities in other authentication mechanisms.   
+  * [x] Vulnerabilities in other authentication mechanisms.   
+    * [x] Resetting Passwords
+    * [x] Password reset poisoning
+    * [x] Constructing a password reset poisoning attack
+    * [x] Securing authentication mechanisms 
 * [ ] Directory Traversal
 * [ ] Command Injection
 * [ ] Business Logic Vulnerabilities
