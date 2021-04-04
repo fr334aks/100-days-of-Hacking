@@ -12,7 +12,7 @@
 
 - [burntmybagel,OSCP-Prep](https://github.com/burntmybagel/OSCP-Prep)
 
-- [m4lv0id,"i did oscp"]https://medium.com/@m4lv0id/and-i-did-oscp-589babbfea19
+- [m4lv0id,"i did oscp"](https://medium.com/@m4lv0id/and-i-did-oscp-589babbfea19)
 
 - [gr0sabi,OSCP best practices](https://gr0sabi.github.io/security/oscp-insights-best-practices-resources/#note-taking)
 
@@ -83,7 +83,7 @@
 
 - [weaknetlabs,Penetration-Testing-Grimoir](https://github.com/weaknetlabs/Penetration-Testing-Grimoire?files=1)
 
-- [OlivierLaflamme,Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God?files=1
+- [OlivierLaflamme,Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God?files=1)
 
 - [cymtrick.oscp-cheat-sheet](https://medium.com/@cymtrick/oscp-cheat-sheet-5b8aeae085ad)
 
