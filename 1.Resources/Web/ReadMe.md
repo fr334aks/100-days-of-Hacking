@@ -152,6 +152,10 @@
     
 ### XXE Injection
 
+- [Owasp,XXE Exploitation](https://owasp.org/www-pdf-archive//XXE_Exploitation.pdf)
+
+- [OwaspOrlando,XXE: The Anatomy of an XML Attack](https://owasp.org/www-pdf-archive//XXE_-_The_Anatomy_of_an_XML_Attack_-_Mike_Felch.pdf)
+
 CLIENT SIDE ATTACKS
 
     Cross-Site Scripting (xss)
@@ -163,8 +167,13 @@ CLIENT SIDE ATTACKS
 
 More Topics
 
-    Insecure Deserialization
-    Server-side template injection (SSTI)
+## Insecure Deserialization
+
+- [escalating deserialization attacks python](https://frichetten.com/blog/escalating-deserialization-attacks-python/)
+  
+  - [Research on deserialization attacks in Python and PHP](https://github.com/Frichetten/deserialization_stuff)
+   
+   Server-side template injection (SSTI)
     Web cache poisoning
     HTTP Host header aattacks
     HTTP request smuggling
