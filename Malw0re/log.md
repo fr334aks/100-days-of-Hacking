@@ -27,3 +27,10 @@
 > Working with functions, reading files return statements
 > As usual folder 003 has details
 ````
+
+````bash
+> help --info
+> Day 004
+> Working with functions and learning the logicc tables
+> started on boolean values on folder 004
+````

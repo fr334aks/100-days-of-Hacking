@@ -4,7 +4,8 @@ from sys import argv
 
 script, input_file = argv
 
-def print_all(f):
+def print_all(f): 
+# file F is responsible for maintaining current position in the file to return what it found so far
 	print f.read()
 # this function prints the content of the file
 
