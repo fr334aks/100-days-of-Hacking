@@ -15,7 +15,7 @@
      - [x]  Buffer Overflows Explained
      - [x]  Spiking
      - [x]  Fuzzing
-     - [ ] Finding The Offset
+     - [x]  Finding The Offset
      - [ ] Overwritting The EIP
      - [ ] Finding Bad Characters
      - [ ] Finding The Right Module
