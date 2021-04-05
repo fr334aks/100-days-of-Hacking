@@ -18,7 +18,7 @@
 - [x] Lame
 - [x] Shocker
 - [x] Nibbles
-- [ ] Beep
+- [x] Beep
 - [ ] Sense
 - [ ] Node
 - [ ] Valentine
@@ -57,7 +57,7 @@
 <details>
     <summary>Server Side Labs</summary>
     
-- [ ] SQL Injection
+- [x] SQL Injection - Ongoing
 - [ ] Authentication
 - [ ] Directory traversal
 - [ ] Command injection 
@@ -78,8 +78,8 @@
 <details>
     <summary>IppSec Daily</summary>
     
- - [ ] IppSec Daily
- - [ ] IppSec Daily
+ - [x] IppSec Daily
+ - [x] IppSec Daily
  - [ ] IppSec Daily
  - [ ] IppSec Daily
  - [ ] IppSec Daily
