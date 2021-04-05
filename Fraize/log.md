@@ -13,3 +13,7 @@
 ### `Day 4`
 - Went through other authentication mechanisms and possible attacks that could occur.
 - Link to Summary : [Day 4](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/4.Authentication)
+
+### `Day 5`
+- Went through directory traversal and how to mitigate such attacks.
+- Link to Summary : [Day 5](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/5.Directory%20Traversal)
