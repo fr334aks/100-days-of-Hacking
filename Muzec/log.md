@@ -217,6 +217,6 @@ Then we are sending four B’s, which should overwrite the EIP with 42424242. Re
 ![Image](https://imgur.com/Au86j6a.png)
 
 
-Boom our EIP have chnaged to 42424242 that confirm we have totally control over the EIP.
+Boom our EIP have changed to 42424242 that confirm we have totally control over the EIP.
 
 ####  `Day 6`
