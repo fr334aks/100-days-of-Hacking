@@ -20,3 +20,11 @@
 1</a></p>
 <p>-Continued SQL Lab on PortSwigger </p
 <p>- Link to summary provided here: <a href="https://#">Day 2</a></p>
+
+
+####  `Day 4`
+<p>- Enumerated Attacked And Rooted Beep On HTB in 4 Hour | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Beep.md">Day 
+1</a></p>
+<p>-Continued SQL Lab on PortSwigger </p
+<p>- Link to summary provided here: <a href="https://#">Day 2</a></p>
+<p>-Watched several XCT </p
