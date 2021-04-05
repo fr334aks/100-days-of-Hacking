@@ -12,5 +12,25 @@
 > Day 001.
 > Started out with basic strings, printing, variables, Numbers & Math
 > you can check out folder 001 for the days activity
-
 ```
+
+````bash
+> help --info
+> Day 002
+> Worked with paramters, Unpacking, and more Variables.
+> Folder 002 has the day activity.
+````
+
+````bash
+> help --info
+> Day 003 
+> Working with functions, reading files return statements
+> As usual folder 003 has details
+````
+
+````bash
+> help --info
+> Day 004
+> Working with functions and learning the logicc tables
+> started on boolean values on folder 004
+````

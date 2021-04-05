@@ -11,12 +11,12 @@
 
 - [x]  Introduction To Exploit Development (Buffer Overflows) 
 
-     - [ ] Required Installations
-     - [ ] Buffer Overflows Explained
-     - [ ] Spiking
-     - [ ] Fuzzing
-     - [ ] Finding The Offset
-     - [ ] Overwritting The EIP
+     - [x]  Required Installations
+     - [x]  Buffer Overflows Explained
+     - [x]  Spiking
+     - [x]  Fuzzing
+     - [x]  Finding The Offset
+     - [x]  Overwritting The EIP
      - [ ] Finding Bad Characters
      - [ ] Finding The Right Module
      - [ ] Generating Shellcode And Gaining Root

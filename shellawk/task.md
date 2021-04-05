@@ -20,14 +20,14 @@
 * [ ] Access Control
 * [ ] Server-Side Request Forgery
 * [ ] XXE Injection
-* [ ] File Upload and Bypassing File Extention Restrictions
+* [X] File Upload and Bypassing File Extention Restrictions
 
 #### CLIENT SIDE ATTACKS
 * [ ] Cross-Site Scripting (xss)
 * [ ] Cross-Site Request Forgery (CSRF)
 * [ ] Cross-Origin Resource Sharing (CORS)
 * [ ] Clickjacking
-* [ ] Content Security Policy Bypass (CSP)
+* [X] Content Security Policy Bypass (CSP)
 * [ ] DOM-Based vulnerabilities
 * [ ] Websockets
 
