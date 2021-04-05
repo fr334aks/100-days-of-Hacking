@@ -1,3 +1,3 @@
-**The following will be explored**
+**The following will be explored in the 100-days of hacking**
 
-*1. Heap Exploitation:
+> Heap Exploitation
