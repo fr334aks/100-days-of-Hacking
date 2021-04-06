@@ -26,7 +26,7 @@
     * [x] Constructing a password reset poisoning attack
     * [x] Securing authentication mechanisms 
 * [x] Directory Traversal
-* [ ] Command Injection
+* [x] OS Command Injection
 * [ ] Business Logic Vulnerabilities
 * [ ] Information Disclosure
 * [ ] Access Control
