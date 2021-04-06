@@ -265,3 +265,25 @@ except:
 
 Now let save and run it the plans now is to focus on the ESP now let go back to Immunity Debugger and right click on the ESP register and select `Follow in Dump`.
 
+![image](https://imgur.com/2QaTL3c.png)
+
+You should notice a little bit of movement in the bottom left corner of the program. If you look carefully, you should see all of your bytes in order starting with 01, 02, 03, etc and ending with FF.
+
+![Image](https://imgur.com/f8Ii3DI.png)
+
+If a bad character were present, it would seem out of place. Luckily for us, there are no bad characters in the Vulnserver program. Notice below how all of our numbers appear perfect and in order we mean we have no bad characters in the program.
+
+Thanks to the `CyberMentor` for showing some example of bad characters which make it easy for me to understand pics below;
+
+![image](https://imgur.com/yRpYl5P.png)
+
+it show the numbers are not in order some missing numbers which is a bad characters.
+
+![Image](https://imgur.com/2jCkrXw.png)
+
+//NOTE AM USING THE CYBERMENTOR MATERIALS
+
+we would need to mark down every missing character for later shellcode development. However, the only bad character we need to worry about with Vulnserver is x00.
+
+
+####  `Day 7`
