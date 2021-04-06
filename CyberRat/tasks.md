@@ -19,7 +19,7 @@
 - [x] Shocker
 - [x] Nibbles
 - [x] Beep
-- [ ] Sense
+- [x] Sense
 - [ ] Node
 - [ ] Valentine
 - [ ] Poison
