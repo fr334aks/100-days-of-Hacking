@@ -1,30 +1,30 @@
 #### `Instruction Set Overview `
 - Instructions to deal with:<br>
-(i) Data movement<br>
-(ii) Conversion Instructions<br>
-(iii) Arithmetic Instructions<br>
-(iv) Logical Instructions<br>
-(v) Control Instructions<br>
+<p>(i) Data movement<br></p>
+<p>(ii) Conversion Instructions<br></p>
+<p>(iii) Arithmetic Instructions<br></p>
+<p>(iv) Logical Instructions<br></p>
+<p>(v) Control Instructions<br></p>
 
 #### `Notational Convections`
 #### Notational Operand
 - An instruction consists of instruction or operation it will do plus the operands(where data going to be operated on comes from / or where its going to be placed)
 - Their summary include:<br>
-- <reg> -> Register operand. operand must be a Register
-- <reg8>, <reg16>, <reg32>, <reg64> -> Register operand with specific size requirement
-- <dest> -> Destination operand, may be a register or a memory
-- <RXdest> -> Floating point register operand
-- <src> -> Source operand. operand value is unchanged in instruction
-- <imm> -> Immediate value, may be decimal, hex, octal or binary
-- <mem> -> Memory location, may be a variable name or indirect reference
-- <op>, <operand> -> Operand, register or Memory
-- <op8>, <op16>, <op32>, <op64> -> Operand, register or memory with specific size requirement
-- <label> - Program label
+<p> <reg> -> Register operand. operand must be a Register</p>
+<p> <reg8>, <reg16>, <reg32>, <reg64> -> Register operand with specific size requirement</p>
+<p> <dest> -> Destination operand, may be a register or a memory</p>
+<p> <RXdest> -> Floating point register operand</p>
+<p> <src> -> Source operand. operand value is unchanged in instruction</p>
+<p> <imm> -> Immediate value, may be decimal, hex, octal or binary</p>
+<p> <mem> -> Memory location, may be a variable name or indirect reference</p>
+<p> <op>, <operand> -> Operand, register or Memory</p>
+<p> <op8>, <op16>, <op32>, <op64> -> Operand, register or memory with specific size requirement</p>
+<p> <label> - Program label</p>
 
 #### `Data movement`
 - Typically, data is moved into a cpu register from ram to be operated on, and when complete, results copied from register and placed into a variable.
 - Basic data movement is in the form:<br>
-<t><t>mov   <dst>, <src> <br>
+<p><t><t>mov   <dst>, <src> <br></p>
 - In example above, source operand is copied from source operand into destination operand. Value of source operand is not changed.
 - Destination and source operands must be of same size(e.g.  both are of size word, word)
 - Destination operand cannot be an immediate.
@@ -72,7 +72,7 @@ mov ecx, eax  ; ecx = eax = 0x00000064<br>
 <t><t>mov   bl, al ;moves al register value to bl, this sets lower bits of rbx which is bl to 50 and the upper bits remain 0<br>
 <br>
 - This can also be done with a special instruction:<br>
-<t><t>movzx   <dst>, <src> ; movz keyword fills upper bits with zero<br>
+<p><t><t>movzx   <dst>, <src> ; movz keyword fills upper bits with zero<br></p>
 <img src="movz.png" alt="movz">
 - Movzx keyword does not allow a quad word destination operand with a double word source operand
 - Examples:
@@ -81,7 +81,7 @@ mov ecx, eax  ; ecx = eax = 0x00000064<br>
 <t><t>movzx   ebx, word [wVar1]<br>
 <t><t>movzx   ebx, cx<br>
 <t><t>movzx   rbx, cl<br>
-<t><t>Movzx   rbx, cx<br>
+<p><t><t>Movzx   rbx, cx<br></p>
 #### Signed Conversions
 - Upper bits must be set to 0 or 1 depending on if original value was positive or negative.
 - This is perfomed using a sign-extend instruction.
@@ -133,6 +133,27 @@ where:<br>
  8bit*8bit = 16bit
 #### Unsigned multiplication
 - General form of instruction is:<br>
-<t><t>mul <src><br>
+<p><t><t>mul <src><br></p>
 - Source operand must be a register or memory location; immediate operand not allowed
--
+- Examples of mutiplication include: [Multiplication](./arithmeticInstructions.asm)
+#### Signed multiplication
+- General form of instructions are:
+<p><t><t>imul <source></p>
+<p><t><t>imul <dest>, <source/imm></p>
+<p><t><t>imul <dest>, <source>, <imm></p>
+- In all cases, destination operand must be a Register
+- A byte sized destination operand is not supported.
+- Multiplication result is usually truncated to the size of the destination operand.
+
+#### `Integer Division`
+- Requires dividend be larger than divisor.i.e.<br>
+<img src="./division.png" alt="division"><br>
+- Signed and unsigned division instructions operate in the same manner and have the general form:<br>
+<p><t><t>div <src><br></p>
+<p><t><t>idiv <src><br></p>
+
+
+
+
+
+- Continuation here: [continue](./Readme2.md) 
