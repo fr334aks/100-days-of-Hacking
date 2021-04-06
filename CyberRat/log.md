@@ -31,8 +31,22 @@
 
 
 ####  `Day 5`
-<p>- Enumerated Attacked And Rooted Sense On HTB couldnt complete it | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Sense.md">Day 
+<p>- Enumerated and Attacked Sense On HTB couldnt complete it | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Sense.md">Day 
 1</a></p>
 <p>-Continued SQL Lab on PortSwigger </p
 <p>- Link to summary provided here: <a href="https://#">Day 2</a></p>
 <p>-Watched several XCT </p
+  
+  
+  
+  
+####  `Day 6`
+<p>- Finnaly Rooted Sense On HTB in | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Beep.md">Day 
+1</a></p>
+<p>- Started enumeration on  | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Beep.md">Day 
+1</a></p>
+<p>-Continued SQL Lab on PortSwigger </p
+<p>- Link to summary provided here: <a href="https://#">Day 2</a></p>
+<p>-Watched several XCT </p
+
+  
