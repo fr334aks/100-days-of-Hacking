@@ -19,5 +19,13 @@
 <p>- Link to the summary provided here: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/5.DDD/Readme.md">Day 5</a></p>
 
 #### `Day 6`
-<p>- Went though parts of instruction sets, that is their convections, conversion instructions(narrowing, widening, unsigned & unsigned) and integer arithmetic instructions(addition, subtraction and introductory multiplication) and consequently wrote their asm code. Hoping to finaliza on the instructions in the next few days<br>
+<p>- Went through parts of instruction sets, that is their convections, conversion instructions(narrowing, widening, unsigned & unsigned) and integer arithmetic instructions(addition, subtraction and introductory multiplication) and consequently wrote their asm code. Hoping to finaliza on the instructions in the next few days<br>
 <p>- Link to the  summary provided here: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/6.InstructionSetOverview/Readme.md">Day 6</a></p>
+
+#### `Day 7`
+<p>- Finished on instructions set overview .i.e.the integer division, logical and shift operations, rotate operations, control instructions and finally iterations</p>
+<p>- Link to the summaries provided here:<br>
+<a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/6.InstructionSetOverview/Readme.md">Day 7 part one</a><br>
+<a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/6.InstructionSetOverview/Readme2.md">Day 7 part two</a></p>
+
+#### `Day 8`
