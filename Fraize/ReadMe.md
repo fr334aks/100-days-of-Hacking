@@ -25,7 +25,7 @@
     * [x] Password reset poisoning
     * [x] Constructing a password reset poisoning attack
     * [x] Securing authentication mechanisms 
-* [ ] Directory Traversal
+* [x] Directory Traversal
 * [ ] Command Injection
 * [ ] Business Logic Vulnerabilities
 * [ ] Information Disclosure

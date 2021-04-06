@@ -119,9 +119,9 @@
     
     - [ ] XXE 
 
-        - [ ] in-band  
+        - [X] in-band  
 
-        - [ ] out-of-band (OOB-XXE)
+        - [X] out-of-band (OOB-XXE)
     
     </details>
     
@@ -151,7 +151,7 @@
     
     - [ ] Python 
     
-        - [ ] Deserialization (pickle)
+        - [X] Deserialization (pickle)
 
         - [ ] Deserialization (yaml)
     
