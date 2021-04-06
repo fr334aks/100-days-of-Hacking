@@ -127,13 +127,13 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 
       - [x] Subtraction instructions
 
-      - [ ] Integer Multiplication
+      - [x] Integer Multiplication
 
-      - [ ] Integer division
+      - [x] Integer division
 
-  - [ ] Logic Instructions
+  - [x] Logic Instructions
 
-  - [ ] Control Instructions
+  - [x] Control Instructions
 
   </details>
 <details>
