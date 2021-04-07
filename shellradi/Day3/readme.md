@@ -20,3 +20,13 @@ areas of the target network.
 
 ##   Phase 2: Focused penetration
 
+I will be comprimising hosts and controlling  the network from the inside, since  i have identified 
+vulnerable attack vectors throughout the environment.
+I will learn several types of attack vectors that will
+result in some form of remote code execution (RCE) on vulnerable targets. RCE means
+you can connect to a remote command prompt and type commands to your  
+compromised victim that will be executed and will send output back to you at your prompt.
+I will learn how to deploy custom web shells using vulnerable web 
+applications.
+I will compromise and take control over database servers, web servers, file shares, work-
+stations, and servers residing on Windows and Linux operating systems.
