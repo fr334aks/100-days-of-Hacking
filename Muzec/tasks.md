@@ -18,7 +18,7 @@
      - [x]  Finding The Offset
      - [x]  Overwritting The EIP
      - [x]  Finding Bad Characters
-     - [ ] Finding The Right Module
+     - [x]  Finding The Right Module
      - [ ] Generating Shellcode And Gaining Root
      - [ ] Exploit Development Using Python3 And Mona
 
