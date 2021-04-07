@@ -1,7 +1,7 @@
 ##  When a penetration test is least effective
 
   Does every organization truly need a penetration test?
-  The answer is that it depends on the level of maturity within a company’s informa-
+  The answer is that it depends on the level of maturity within a company’s informa
   tion security program.
   
   It has a lot more to do with an exceedingly common scenario: an immature organi-
