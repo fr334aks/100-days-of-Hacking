@@ -287,3 +287,24 @@ we would need to mark down every missing character for later shellcode developme
 
 
 ####  `Day 7`
+
+`FINDING THE RIGHT MODULE`
+
+First of all let download mona, what is mona?? Mona.py is a python script that can be used to automate and speed up specific searches while developing exploits (typically for the Windows platform). It runs on Immunity Debugger and WinDBG, and requires python 2.7. Although it runs in WinDBG x64, the majority of its features were written specifically for 32bit processes. Download Mona from here `https://github.com/corelan/mona`
+
+
+![image](https://imgur.com/UM0Aosz.png)
+
+
+`Installation Instruction`
+
+Immunity Debugger
+
+1. drop mona.py into the 'PyCommands' folder (inside the Immunity Debugger application folder).
+
+![Image](https://imgur.com/BXJlxnS.png)
+
+Local Disk ---> Program Files (x86) ------> Immunity Inc ------> Immunity Debugger -------> PyCommands -----> paste the Mona.py file in it.
+
+
+
