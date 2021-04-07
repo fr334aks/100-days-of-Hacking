@@ -34,3 +34,17 @@
 > Working with functions and learning the logicc tables
 > started on boolean values on folder 004
 ````
+
+````bash
+> help --info
+> Day 005
+> Working with loops.
+> folder Day5 has the day activities.
+````
+
+````bash
+> help --info
+> day 006
+> Working with tuples
+
+````
