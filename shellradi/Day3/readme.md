@@ -18,5 +18,5 @@ vulnerabilities that you can take advantage of to gain unauthorized access to re
 areas of the target network.
 
 
-##  Phase 2: Focused penetration
+##   Phase 2: Focused penetration
 
