@@ -1,4 +1,4 @@
-## Phase 1: Information gathering
+##  Phase 1: Information gathering
  
 I will be going through gathering all the information about the target network that is necessary for me to break in.
 Like performing network mapping using Nmap and discover live hosts within a
@@ -16,3 +16,7 @@ pentest tools such as the Metasploit framework CrackMapExec (CME), Impacket, and
 many others to further enumerate information about network targets, services, and
 vulnerabilities that you can take advantage of to gain unauthorized access to restricted
 areas of the target network.
+
+
+##  Phase 2: Focused penetration
+
