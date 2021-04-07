@@ -21,3 +21,7 @@
 ### `Day 6`
 - Went through OS command injection and how to mitigate.
 - Link to Summary : [Day 6](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/6.OS_command_injection)
+
+### `Day 7`
+- Went through business logic vulnerabilities.
+- Link to Summary : [Day 7](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/7.Business%20logic%20vulnerabilities)
