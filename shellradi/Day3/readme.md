@@ -11,3 +11,10 @@ vices for specific information, including but not limited to the following:
 -  Current patch and configuration settings
 -  Service banners and HTTP headers
 -  Authentication mechanisms
+
+
+Alongside Nmap i will be using other powerful open source
+pentest tools such as the Metasploit framework CrackMapExec (CME), Impacket, and
+many others to further enumerate information about network targets, services, and
+vulnerabilities that you can take advantage of to gain unauthorized access to restricted
+areas of the target network.
