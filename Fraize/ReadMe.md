@@ -27,7 +27,8 @@
     * [x] Securing authentication mechanisms 
 * [x] Directory Traversal
 * [x] OS Command Injection
-* [ ] Business Logic Vulnerabilities
+* [x] Business Logic Vulnerabilities
+  * [ ] Examples Of Business Logic Vulnerabilities
 * [ ] Information Disclosure
 * [ ] Access Control
 * [ ] Server-Side Request Forgery
