@@ -15,3 +15,8 @@
 - [link to medium article](https://trevorsaudi.medium.com/brainpan-tryhackme-ced123611c56)
 - [link to exploit I wrote](./exploits/Brainpan_exploit.py)
 
+
+## day 3
+
+- Brushing up a bit and learning the C prgoramming language. This will be a good stepping stone towards getting good in binary exploitation
+- Worked on the OSCP BOF prep room from Tryhackme. Most of these challenges helped me improve on identifying badchars during buffer overflows
