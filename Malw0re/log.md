@@ -48,3 +48,9 @@
 > Working with tuples
 
 ````
+````bash
+> help --info 
+> day 007
+> Working with sets
+
+```
