@@ -28,7 +28,7 @@
 * [x] Directory Traversal
 * [x] OS Command Injection
 * [x] Business Logic Vulnerabilities
-  * [ ] Examples Of Business Logic Vulnerabilities
+  * [x] Examples Of Business Logic Vulnerabilities
 * [ ] Information Disclosure
 * [ ] Access Control
 * [ ] Server-Side Request Forgery
