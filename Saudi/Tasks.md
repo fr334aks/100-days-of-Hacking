@@ -9,8 +9,7 @@
 
 
 
-
-## day 3
+## day 2
 
 - Today I worked on Brainpan room from Tryhackme. Simple buffer overflow to gain a shell on machine.
 - [link to medium article](https://trevorsaudi.medium.com/brainpan-tryhackme-ced123611c56)
