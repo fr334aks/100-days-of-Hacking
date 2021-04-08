@@ -25,3 +25,7 @@
 ### `Day 7`
 - Went through business logic vulnerabilities.
 - Link to Summary : [Day 7](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/7.Business%20logic%20vulnerabilities)
+
+### `Day 8`
+- Went through business logic vulnerabilities examples and labs.
+- Link to Summary : [Day 8](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/8.Business%20Logic%20Vulnerabilities)

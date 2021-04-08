@@ -19,7 +19,7 @@
      - [x]  Overwritting The EIP
      - [x]  Finding Bad Characters
      - [x]  Finding The Right Module
-     - [ ] Generating Shellcode And Gaining Root
+     - [x]  Generating Shellcode And Gaining Root
      - [ ] Exploit Development Using Python3 And Mona
 
 
