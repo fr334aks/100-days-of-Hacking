@@ -54,3 +54,11 @@
 > Working with sets
 
 ```
+````bash
+> help --info
+> Day 008
+> Working and learning about Dictionaries
+> Activity log in the notes.md
+
+
+````
