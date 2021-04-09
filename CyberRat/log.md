@@ -51,8 +51,24 @@
 
   
 ####  `Day 7`
-<p>- Continued Enumeration and attack on NOde in in | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Beep.md">Day 
+<p>- Continued Enumeration and attack on NOde in in | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Node.md">Day 
 1</a></p>
-<p>-Learnt Logic abuse in SQL Lab on PortSwigger </p>
-<p>-Learnt Logic abuse in SQL Lab on PortSwigger </p>
+<p>-Watched Several xct </p>
 <p>-Learnt retrieving hidden data in SQL Lab on PortSwigger </p>
+
+
+
+####  `Day 8`
+<p>- Continued Enumeration and attack on Node in in | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Node.md">Day 
+1</a></p>
+
+<p>-Watched Several xct</p>
+
+
+
+####  `Day 9`
+<p>- Rooted Node, Rooted Blue in in | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Blue.md">Day 
+1</a></p>
+<p>-Watched Several xct </p>
+<p>-Watched IppSec - Walkthrough </p>
+<p>-Continued SQL Lab on PortSwigger </p>
