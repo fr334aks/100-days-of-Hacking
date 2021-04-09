@@ -29,3 +29,7 @@
 ### `Day 8`
 - Went through business logic vulnerabilities examples and labs.
 - Link to Summary : [Day 8](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/8.Business%20Logic%20Vulnerabilities)
+
+### `Day 9`
+- Went through information Disclosure Vulnerabilites.
+- Link to Summary : [Day 9](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/9.Information%20Disclosure%20Vulnerabilities)
