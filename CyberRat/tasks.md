@@ -20,7 +20,7 @@
 - [x] Nibbles
 - [x] Beep
 - [x] Sense
-- [ ] Node
+- [x] Node
 - [ ] Valentine
 - [ ] Poison
 - [ ] Sunday
@@ -80,13 +80,13 @@
     
  - [x] IppSec Daily
  - [x] IppSec Daily
- - [ ] IppSec Daily
- - [ ] IppSec Daily
- - [ ] IppSec Daily
- - [ ] IppSec Daily
- - [ ] IppSec Daily
- - [ ] IppSec Daily
- - [ ] IppSec Daily
+ - [x] IppSec Daily
+ - [x] IppSec Daily
+ - [x] IppSec Daily
+ - [x] IppSec Daily
+ - [x] IppSec Daily
+ - [x] IppSec Daily
+ - [x] IppSec Daily
  - [ ] IppSec Daily
  - [ ] IppSec Daily
  - [ ] IppSec Daily
