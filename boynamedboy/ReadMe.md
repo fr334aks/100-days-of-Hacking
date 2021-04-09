@@ -121,7 +121,7 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 
       - [x] Unsigned Conversions
 
-  - [ ] Integer Arithmetic Instructions
+  - [x] Integer Arithmetic Instructions
 
       - [x] Addtion Instructions
 
@@ -139,9 +139,9 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Addressing Modes</summary>
 
-  - [ ] Addresses and Values
+  - [x] Addresses and Values
 
-  - [ ] Sample Programming
+  - [x] Sample Programming
 
 </details>
 <details>
