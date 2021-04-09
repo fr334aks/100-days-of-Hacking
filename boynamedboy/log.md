@@ -29,3 +29,5 @@
 <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/6.InstructionSetOverview/Readme2.md">Day 7 part two</a></p>
 
 #### `Day 8`
+<p>- Went through different addressing modes in x86_64 bit assembly</p>
+<p>- Link to the summaries provided here: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/7.AddressingModes/Readme.md">Day 8</a>
