@@ -1,4 +1,4 @@
-###   Building your own virtual pentest platform
+###   Building virtual pentest platform
 
 
 ##    The Capsulecorp Pentest project
@@ -11,7 +11,7 @@ The Capsulecorp Pentest is a small virtual network managed by Vagrant and Ansibl
 ![](https://repository-images.githubusercontent.com/248063695/924f2700-74cd-11ea-80db-44cd5b05c203)
 
 ## Why is this cool?
-Setting up a virtual network to learn penetration testing can be tedious as well as time/resource consuming. Everything in the capsulecorp environment is pretty much done for you already. Once you get Vagrant, Ansible and VirtualBox installed on your machine you only need to run a couple of `vagrant` commands to have a fully functioning Active Directory domain that you can use for hacking/learning/pentesting etc.
+Setting up a virtual network to learn penetration testing can be tedious as well as time/resource consuming. Everything in the capsulecorp environment is pretty much done already. Once i get Vagrant, Ansible and VirtualBox installed on my machine i only need to run a couple of `vagrant` commands to have a fully functioning Active Directory domain that i will use for hacking/learning/pentesting etc.
 
 ## 1.1. Requirements
 In order to use the Capsulecorp Pentest network you must have the following:
@@ -24,7 +24,7 @@ In order to use the Capsulecorp Pentest network you must have the following:
   * [https://docs.ansible.com/ansible/latest/installation_guide/index.html](https://docs.ansible.com/ansible/latest/installation_guide/index.html)
   
 * Quad-core CPU with 16GB RAM is recommended.  
-  * With 8GB or less you could still use the project but ***only run 2 or 3 VMs at a time***.  
+  * With 8GB or less i can still use the project but ***only run 2 or 3 VMs at a time***.  
   * For All VMs running at once 16GB is required.
 
 ## 1.2. Current Functionality
@@ -48,7 +48,7 @@ In order to use the Capsulecorp Pentest network you must have the following:
   * Impacket
 
 ## 1.3. OSX Configuration
-In order to manage Windows hosts you'll have to install `pywinrm` with pip inside the ansible virtual environment
+In order to manage Windows hosts i'll have to install `pywinrm` with pip inside the ansible virtual environment
 
 ```bash
 source ~/ansible/bin/activate
@@ -96,7 +96,7 @@ changed: [goku]
 TASK [promotedc : Reboot after promotion] **************************************
 ```
 
-## 2.2. Configure your pentest platform
+## 2.2. Configuring pentest platform
 
 Bring up the virtual machines using Vagrant. First cd into the project directory, for example: `cd ~/capsulecorp-pentest`.  Take note of the RDP port that gets forwarded to your localhost.
 
@@ -106,7 +106,7 @@ Provision the pentest machine.
 
     vagrant provision pentest
 
-You can access your pentest machine either using your preferred RDP client to connect to the xrdp listener or via SSH with.
+i can access your pentest machine either using your preferred RDP client to connect to the xrdp listener or via SSH with.
 
 	vagrant ssh pentest
 
