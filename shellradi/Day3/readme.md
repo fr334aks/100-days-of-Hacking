@@ -55,3 +55,17 @@ By the time am done, i will understand exactly why we say in this industry that 
 only a single compromised host for one to spread through a network like wildfire and 
 eventually capture the keys to the kingdom.
   
+  
+  
+ ##      Phase 4: Documentation
+  
+Without the report, the penetration test means nothing. You broke into the network, 
+found a bunch of holes in their security, and elevated your initial access as high 
+as it could go.
+
+How does that benefit the target organization? Truth be told, it doesn’t, unless you
+can provide detailed documentation illustrating exactly how you were able to do it
+and what the organization should do to ensure that you (or someone else) can’t do it
+again
+
+
