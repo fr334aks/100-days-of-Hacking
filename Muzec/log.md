@@ -439,3 +439,11 @@ Now let check our ncat listener.
 And boom we got shell.....very interesting
 
 ####  `Day 9`
+
+`COMPLETING THE BUFFER OVERFLOW PREP IN TRYHACKME`
+
+![Image](https://imgur.com/06CInhs.png)
+
+Reources I use [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
+
+####  `Day 10`
