@@ -72,3 +72,13 @@
 <p>-Watched Several xct </p>
 <p>-Watched IppSec - Walkthrough </p>
 <p>-Continued SQL Lab on PortSwigger </p>
+
+
+####  `Day 9`
+<p>- Rooted Node, Rooted Blue in in | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Blue.md">Day 
+1</a></p>
+<p>-Watched Several xct </p>
+<p>-Completed Applied Linux Command Line and Shell Scripting Zero to Elite
+Udemy</p>
+<p>-Continued SQL Lab on PortSwigger </p>
+
