@@ -8,6 +8,6 @@ Immunity Debugger:- https://www.immunityinc.com/products/debugger/
 
 Vulnserver: http://www.thegreycorner.com/p/vulnserver.html
 
-####  `Day 10`
+####  `Day 9`
 
 Buffer Overflow Prep:- https://tryhackme.com/room/bufferoverflowprep
