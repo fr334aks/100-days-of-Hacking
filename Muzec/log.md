@@ -444,6 +444,6 @@ And boom we got shell.....very interesting
 
 ![Image](https://imgur.com/06CInhs.png)
 
-Reources I use [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
+Resources I use [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 
 ####  `Day 10`
