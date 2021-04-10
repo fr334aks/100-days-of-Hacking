@@ -20,3 +20,9 @@
 
 - Brushing up a bit and learning the C prgoramming language. This will be a good stepping stone towards getting good in binary exploitation
 - Worked on the OSCP BOF prep room from Tryhackme. Most of these challenges helped me improve on identifying badchars during buffer overflows
+
+
+## day 4
+
+- Working on 64 bit buffer overflows overflows.
+- [link to lab](https://tryhackme.com/room/bof1)

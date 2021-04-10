@@ -13,3 +13,5 @@
 [64-bit BOF walkthrough using GDB](https://samsclass.info/127/proj/ED402.htm)
 [64-bit BOF tutorial](https://medium.com/@buff3r/basic-buffer-overflow-on-64-bit-architecture-3fb74bab3558)
 [Binary explotation Resources](https://exploit.education/)
+[Tryhackme BOF Prep](https://tryhackme.com/room/bufferoverflowprep)
+[64-bit BOF tutorial- Tryhackme](https://tryhackme.com/room/bof1)
