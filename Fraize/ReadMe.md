@@ -29,9 +29,9 @@
 * [x] OS Command Injection
 * [x] Business Logic Vulnerabilities
   * [x] Examples Of Business Logic Vulnerabilities
-* [ ] Information Disclosure
+* [x] Information Disclosure
   * [x] Information Disclosure
-  * [ ] Exploiting Information Disclosure Vulnerabilities
+  * [x] Exploiting Information Disclosure Vulnerabilities
 * [ ] Access Control
 * [ ] Server-Side Request Forgery
 * [ ] XXE Injection
