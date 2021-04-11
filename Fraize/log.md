@@ -33,3 +33,7 @@
 ### `Day 9`
 - Went through information Disclosure Vulnerabilites.
 - Link to Summary : [Day 9](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/9.Information%20Disclosure%20Vulnerabilities)
+
+### `Day 10`
+- Went through the various methods of exploiting information disclosure vulnerabilities.
+- Link to Summary : [Day 10](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/10.Finding%20and%20Exploiting%20Information%20Disclosure%20Vulnerabilities)
