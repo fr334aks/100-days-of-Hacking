@@ -30,4 +30,10 @@
 
 #### `Day 8`
 <p>- Went through different addressing modes in x86_64 bit assembly</p>
-<p>- Link to the summaries provided here: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/7.AddressingModes/Readme.md">Day 8</a>
+<p>- Link to the summary provided here: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/7.AddressingModes/Readme.md">Day 8</a>
+
+#### `Day 9`
+<p>- Went through stack operations, **pop and push** and wrote program to reverse a list</p>
+<p>- Link to the summary provided here: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/8.ProcessStack/Readme.md">Day 9</a>
+
+#### `Day 10`
