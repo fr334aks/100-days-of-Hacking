@@ -147,11 +147,19 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Process Stack</summary>
 
-  - [ ] Stack Instructions
+  - [x] Stack Instructions
 
-  - [ ] Stack Implementation
+  - [x] Stack Implementation
 
-  - [ ] Stack Programming
+    - [x] Stack Layout
+
+    - [x] Stack Operations
+
+      - [x] push operations
+
+      - [x] pop operations
+
+  - [x] Stack Programming
 
 </details>
 <details>
