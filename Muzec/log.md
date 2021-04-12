@@ -464,6 +464,6 @@ Some little help from write up....
 
 `WORKING ON GATEKEEPER WRITE UP`
 
-Done writing [Gatekeepee](https://muzec0318.github.io/posts/Gatekeeper.html)
+Done writing [Gatekeeper](https://muzec0318.github.io/posts/Gatekeeper.html)
 
 ####  `Day 13`
