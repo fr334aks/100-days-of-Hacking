@@ -447,3 +447,23 @@ And boom we got shell.....very interesting
 Resources I use [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 
 ####  `Day 10`
+
+`GETTING USER IN GATEKEEPER (BUFFER OVERFLOW) IN TRYHACKME`
+
+![Image](https://i.imgur.com/ssIdedp.png)
+
+####  `Day 11`
+
+`GETTING ROOT IN GATEKEEPER (BUFFER OVERFLOW) IN TRYHACKME`
+
+![Image](https://i.imgur.com/EmFl7oW.png)
+
+Some little help from write up....
+
+####  `Day 12`
+
+`WORKING ON GATEKEEPER WRITE UP`
+
+Done writing [Gatekeepee](https://muzec0318.github.io/posts/Gatekeeper.html)
+
+####  `Day 13`
