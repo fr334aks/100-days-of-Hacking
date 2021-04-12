@@ -91,3 +91,9 @@ Udemy</p>
 <p>- Starting Enumeraiton on PwnTillDawn</p>
 <p>-Continued SQL Lab on PortSwigger </p>
 
+
+####  `Day 12`
+<p>- Rooted Valentine on HTB, Got user on  Pohotographer on proving ground </a></p>
+<p>-Watched Several xct </p>
+<p>- Starting Enumeraiton on PwnTillDawn</p>
+<p>-Continued SQL Lab on PortSwigger </p>
