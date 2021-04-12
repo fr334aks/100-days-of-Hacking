@@ -21,7 +21,7 @@
 - [x] Beep
 - [x] Sense
 - [x] Node
-- [ ] Valentine
+- [x] Valentine
 - [ ] Poison
 - [ ] Sunday
 - [ ] Swagshop
@@ -37,7 +37,7 @@
 <details>
     <summary>Windows Machine</summary>
     
-- [ ] Blue
+- [x] Blue
 - [ ] Granny
 - [ ] Secnotes
 - [ ] BankRobber
