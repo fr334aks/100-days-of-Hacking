@@ -62,3 +62,16 @@
 
 
 ````
+
+````bash
+> help --info
+> Day 009
+> Working with conditions and operators
+> Activity log show in folder Day 009
+````
+```bash
+> help --info
+> Day 010 
+> Working with Functions.
+
+````
