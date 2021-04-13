@@ -79,5 +79,5 @@ from the OS via syscalls
                         malloc == 0x20
                 elif(n + 0x8 + 0xf) &~ 0xf will be the new size =)
 
-*When a call is made to malloc, the size should be aligned to the SZ_SIZE value that is 0x4 in 32-bit systems and 0x8 in 64-bit ssystems
+*When a call is made to malloc, the size should be aligned to the SZ_SIZE value that is 0x4 in 32-bit systems and 0x8 in 64-bit systems
 Malloc will allocate that size plus the size of the heap metadata that is 0x8 in 32-bit systems and 0x10 in 64-bit systems =)*
