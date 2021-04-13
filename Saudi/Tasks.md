@@ -24,5 +24,17 @@
 
 ## day 4
 
-- Working on 64 bit buffer overflows overflows.
+- Working on 64 bit buffer overflows overflows. Went through introduction to simple stack based BOFs in 64 bit systems, the process layout on machines, x86-64 procedures and endainness
 - [link to lab](https://tryhackme.com/room/bof1)
+
+## day 5
+
+- Made progress in learning C programming language. I am using Head First C.
+- Went through memory and pointers in C
+- Still working on the BoFs room in THM. Went through Overwriting variables and overwriting function pointers
+
+## day 6
+
+- Made more progress in C. Currently learning about string functions in the C library
+- Still working on the BoFs room in THM. Performed a 64 bit buffer overflow 
+
