@@ -32,7 +32,10 @@
 * [x] Information Disclosure
   * [x] Information Disclosure
   * [x] Exploiting Information Disclosure Vulnerabilities
-* [ ] Access Control
+* [x] Access Control
+  * [x]  Access Control Vulnerabilities
+  * [x]  IDOR
+  * [x]  Access Control Security Models
 * [ ] Server-Side Request Forgery
 * [ ] XXE Injection
 
