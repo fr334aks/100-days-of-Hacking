@@ -37,3 +37,11 @@
 ### `Day 10`
 - Went through the various methods of exploiting information disclosure vulnerabilities.
 - Link to Summary : [Day 10](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/10.Finding%20and%20Exploiting%20Information%20Disclosure%20Vulnerabilities)
+
+### `Day 11`
+- Went through access control vulnerabilities.
+- Link to Summary : [Day 11](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/11-12.Access_control)
+
+### `Day 12`
+- Went through Insecurities Direct Object References(IDOR) and Access control security models
+- Link to Summary : [Day 12](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/11-12.Access_control)
