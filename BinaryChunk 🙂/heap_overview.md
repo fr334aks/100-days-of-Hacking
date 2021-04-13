@@ -49,7 +49,7 @@ denominated `allocators`.
         4. Tcmalloc : Google Chrome
         5. Magazine Malloc : IOS/OSX
         
-- These allocators theycommunicate with the kernel in order to recive memory
+- These allocators they communicate with the kernel in order to receive memory
 from the OS via syscalls
 
         1. brk() syscall:
@@ -78,3 +78,6 @@ from the OS via syscalls
                 if (n < 0x20):
                         malloc == 0x20
                 elif(n + 0x8 + 0xf) &~ 0xf will be the new size =)
+
+*When a call is made to malloc, the size should be aligned to the SZ_SIZE value that is 0x4 in 32-bit systems and 0x8 in 64-bit ssystems
+Malloc will allocate that size plus the size of the heap metadata that is 0x8 in 32-bit systems and 0x10 in 64-bit systems =)*
