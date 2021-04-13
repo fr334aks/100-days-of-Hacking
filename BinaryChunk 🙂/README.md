@@ -2,7 +2,6 @@
 
 *Understanding the Heap*
 > [Introduction to the Heap](heap_overview.md)
-> 
 > [Binning](binning.md)
 
 *Heap Exploitation*
