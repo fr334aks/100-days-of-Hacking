@@ -467,3 +467,10 @@ Some little help from write up....
 Done writing [Gatekeeper](https://muzec0318.github.io/posts/Gatekeeper.html)
 
 ####  `Day 13`
+
+`COMPLETE BRAINPAN1 BOX`
+
+![Image](https://imgur.com/oG8NBSF.png)
+
+
+####  `Day 14`
