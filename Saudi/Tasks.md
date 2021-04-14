@@ -38,3 +38,7 @@
 - Made more progress in C. Currently learning about string functions in the C library
 - Still working on the BoFs room in THM. Performed a 64 bit buffer overflow 
 
+## day 7
+
+- Completed Tryhackme room [link to room](https://tryhackme.com/room/bof1)
+- Familiarized myself more with working with gdb, examining the stack and performing 64-bit BOFs
