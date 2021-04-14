@@ -36,7 +36,7 @@
   * [x]  Access Control Vulnerabilities
   * [x]  IDOR
   * [x]  Access Control Security Models
-* [ ] Server-Side Request Forgery
+* [x] Server-Side Request Forgery
 * [ ] XXE Injection
 
 #### CLIENT SIDE ATTACKS
