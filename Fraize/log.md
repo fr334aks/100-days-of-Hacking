@@ -45,3 +45,7 @@
 ### `Day 12`
 - Went through Insecurities Direct Object References(IDOR) and Access control security models
 - Link to Summary : [Day 12](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/11-12.Access_control)
+
+### `Day 13`
+- Went through SSRF.
+- Link to Summary : [Day 13](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/13.Server-Side%20Request%20Forgery)
