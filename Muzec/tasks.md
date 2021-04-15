@@ -20,7 +20,7 @@
      - [x]  Finding Bad Characters
      - [x]  Finding The Right Module
      - [x]  Generating Shellcode And Gaining Root
-     - [ ] Exploit Development Using Python3 And Mona
+     - [x]  Exploit Development Using Python3 And Mona
 
 
 - [x]   Active Directory Lab Build
