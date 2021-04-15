@@ -1,6 +1,7 @@
 # 100DaysOfHacking Web Security
 - Below is a list of some of the things that I will be going through(not limited to it) my 100DaysOfHacking and my experience through the journey each day.
 - I will be going through Web Security during the period.
+- READ : [top 10 web hacking techniques](https://portswigger.net/research/top-10-web-hacking-techniques)
 
 #### SERVER SIDE ATTACKS
 * [x] SQL injection
