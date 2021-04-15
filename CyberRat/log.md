@@ -99,11 +99,15 @@ Udemy</p>
 <p>-Continued SQL Lab on PortSwigger </p>
 
 ####  `Day 13`
-
+BURNTOUT TOOK BREAK
 
 ####  `Day 14`
+BURNTOUT TOOK BREAK
 
 ####  `Day 15`
+<p>- Rooted Valentine on Granny, Got user on  FunboxEnum on proving ground </a></p>
+<p>-Watched Several xct </p>
+<p>- Starting Enumeraiton on PwnTillDawn</p>
 
 ####  `Day 16`
 
