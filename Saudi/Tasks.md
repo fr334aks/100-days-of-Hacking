@@ -42,3 +42,9 @@
 
 - Completed Tryhackme room [link to room](https://tryhackme.com/room/bof1)
 - Familiarized myself more with working with gdb, examining the stack and performing 64-bit BOFs
+
+## day 8
+
+- Completed Tryhackme room [link to room](https://tryhackme.com/room/thecodcaper)
+- Cod caper features exploiting a 32 bit buffer overflow in linux
+- Used pwndbg and pwntools
