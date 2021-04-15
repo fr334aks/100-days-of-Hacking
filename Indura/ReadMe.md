@@ -17,6 +17,7 @@
 - [ ] Access control
 - [ ] OAuth
 - [ ] Web cache poisoning
+- [X] Server-Side Template Injection - https://portswigger.net/research/server-side-template-injection,https://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti
 ...
 
 ## Osint
