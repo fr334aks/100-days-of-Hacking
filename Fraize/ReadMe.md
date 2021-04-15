@@ -37,7 +37,7 @@
   * [x]  IDOR
   * [x]  Access Control Security Models
 * [x] Server-Side Request Forgery
-* [ ] XXE Injection
+* [x] XXE Injection
 
 #### CLIENT SIDE ATTACKS
 * [ ] Cross-Site Scripting (xss)
