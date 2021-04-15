@@ -49,3 +49,7 @@
 ### `Day 13`
 - Went through SSRF.
 - Link to Summary : [Day 13](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/13.Server-Side%20Request%20Forgery)
+
+### `Day 14`
+- Went through XXE Injection.
+- Link to Summary : [Day 14](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/14.XXE%20Injection)
