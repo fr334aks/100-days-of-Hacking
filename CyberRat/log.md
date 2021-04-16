@@ -110,6 +110,9 @@ BURNTOUT TOOK BREAK
 <p>- Starting Enumeraiton on PwnTillDawn</p>
 
 ####  `Day 16`
+<p>- Rooted Armagedon on HTB, Continued enumerating FunboxEnum on proving ground </a></p>
+<p>-Watched Some xct </p>
+<p>-Watched Some ipsec </p>
 
 
 ####  `Day 17`
