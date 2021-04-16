@@ -2,10 +2,14 @@
 - A debugger allows on to control execution of a program, examine variables, memory such as stacks, and display program output if any.
 - DDD offers a gui for gdb debugger.
 - Start it by writing ddd followed by name of program you want to examine:e.g.<br>
-<t><t>ddd example<br>
+```
+ddd example
+```
 <img src="./ddd.png" alt="ddd">
 - For gdb execute:<br>
-<t><t>gdb example
+```
+gdb example
+```
 
 #### `Program execution with ddd`
 - Click run button found on the command line menu or type run at the bottom gdb prompt.
@@ -31,7 +35,7 @@
 - NO difference between the two for a single non-function instrucion
 #### Displaying Register Contents
 - Click status from menu bar, then registers
-- Will show register Contents by register boynamedboy
+- Will show register Contents by register
 - rsp and rbp registers are shown as hex since they are typically used for addresses.
 <img src="./registers.png" alt="registers">
 
@@ -60,16 +64,23 @@ explanation here:<br>
 - Stack is normally comprised of 64 bit unsigned elements
 - Examine command is used however address is in the rsp(stack based pointer) register.
 - To display contents of top of stack use:
-<t><t>x/ug $rsp<br>
+```
+x/ug $rsp
+```
 - Likewise, to display top 6 items on stack use:
-<t><t>x/6g $rsp<br>
+```
+x/6g $rsp
+```
 - First item shown, is the one on top of stack(from how stacks implementation)
 
 
 #### Debugger commands File(non-interactive)
 -  Debugger command to read a file is the: source <filename>e.g.<br>
-<t><t>(gdb) source gdbIn.txt<br>
-
+```
+(gdb) source gdbIn.txt
+```
 - To obtain output file without an interactive DDD session, use following command at command line<br>
-<t><t>gdb < gdbIn.txt prog<br>
+```
+gdb < gdbIn.txt prog
+```
 - Basically, it will execute command in input file on given program, create output file and finally exit the program and debugger-

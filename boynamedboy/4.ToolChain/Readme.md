@@ -16,7 +16,9 @@
 - Examples of assemblers: nasm, yasm, etc
 #### Assembling
 - We are using yasm:<br>
-<t><t><t><i>yasm -g dwarf2 -f elf64 example.asm -l example.lst</i><br>
+```
+yasm -g dwarf2 -f elf64 example.asm -l example.lst
+```
 - manual:
 <img src="./assembler.png" alt="Assembling"><br>
 (i) -g dwarf2 -> include debugging symbols in final object file (necessary for debugging)<br>
@@ -46,14 +48,18 @@
 - Combines one or more object into a single executable file
 - Routines from user or system libraries are added if necessary.
 - GNU Gold Linker example:
-<t><t><t>ld -g -o example example.o<br>
+```
+ld -g -o example example.o
+```
 -manual:
 <img src="./linker.png" alt="GNU Gold Linker"><br>
 (i) -g -> include debugging info in final executable file<br>
 (ii) -o -> specifies name of final executable file to be produced from object file. if omitted default output name will be a.out<br>
 #### Linking multiple files
 - Additional input object files would be listed in order having a space between them e.g.<br>
-<t><t><t>ld -g -o example.a main.o example.o<br>
+```
+ld -g -o example.a main.o example.o
+```
 #### Linking Process
 - Is combining smaller solutions into a single executable unit
 - Machine code is copied from single object into a single executable.

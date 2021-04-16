@@ -1,30 +1,35 @@
 #### `Logical Operations`
 - Summarized as follows:<br>
-<p><t><t>and <dst> <src><br></p>
-<p><t><t>or  <dst> <src><br></p
-<p><t><t>xor <dst> <src><br></p>
-<p><t><t>not <op><br></p>
-
+```
+and <dst> <src>
+or  <dst> <src>
+xor <dst> <src>
+not <op>
+```
 
 #### `Shift Operations`
 #### logical Shift
 - Is a bitwise operation that shifts all bits of source register by the specified number of bits and places the result into the destination register
 - Every bit in source operand is moved the specified number of bits positions and the newly vacant bit positions are filled with zeros
 - General form of the instructions are:<br>
-<p><t><t>shl <dest>, <imm><br></p>
-<p><t><t>shl <dest>, cl<br></p>
-<p><t><t>shr <dest>, <imm><br></p>
-<p><t><t>shr <dest>, cl<br></p>
+```
+shl <dest>, <imm>
+shl <dest>, cl
+shr <dest>, <imm>
+shr <dest>, cl
+```
 - <imm> and cl must be a number between 1 and 64
 #### arithmetic shifts
 - **left shift** works same way as a logical shift in terms of shifting bits; plus the leading sign bit is not preserved
 - if resulting value does not fit, an overflow occurs.
 - **right shift** works same way as a logical shift in terms of shifting bits; plus it treats operand as signed .i.e will extend one on most significant bit if the operand was negative.
 - General form of the instructions is summarized as follows:<br>
-<p><t><t>sal <dest>, <imm><br></p>
-<p><t><t>sal <dest>, cl<br></p>
-<p><t><t>sar <dest>, <imm><br></p>
-<p><t><t>sar <dest>, cl<br></p>
+```
+sal <dest>, <imm>
+sal <dest>, cl
+sar <dest>, <imm>
+sar <dest>, cl
+```
 - <imm> and cl must be a number between 1 and 64
 
 #### `Rotate Operations`
@@ -33,10 +38,12 @@
 (i)left would be would be: 001110<br>
 (ii) right would be: 111000<br>
 - General form of the instructions is summarized as follows:<br>
-<p><t><t>rol <dest>, <imm><br></p>
-<p><t><t>rol <dest>, cl<br></p>
-<p><t><t>ror <dest>, <imm><br></p>
-<p><t><t>ror <dest>, cl<br></p>
+```
+rol <dest>, <imm>
+rol <dest>, cl
+ror <dest>, <imm>
+ror <dest>, cl
+```
 - <imm> and cl must be a number between 1 and 64
 
 #### `Control instructions`
@@ -48,20 +55,29 @@
 - terminatd by a semicolon(:) and defined only once.
 - in yasm, labels are case sensitive
 - examples of labels include:<br>
-<t>loopStart:<br>
-<t>last:<br>
+```
+loopStart:
+last:
+```
 #### Unconditional control instructions
 - provide an unconditional jump to a specific location in program denoted by a label
 - must be defined exactly once, accessible, and within scope from originating jump instruction.
 - General format is a below:<br>
-<p><t>jmp <label></p><br>and  example as follows:
-<p><t>jmp loopStart</p><br>
-<p><t>jmp last</p><br>
+```
+jmp <label>
+```
+and  example as follows:
+```
+jmp loopStart
+jmp last
+```
 #### Conditional control instructions
 - provides a conditional jump based on comparison, provides basic if statement functionality
 - involves 2 steps, compare instruction and conditional jump instruction:
 - General form of the instruction is:<br>
-<p><t>cmp <op1> <op2></p><br>
+```
+cmp <op1> <op2>
+```
 where <op1> and <op2> are not changed and must be of the same size<br>
 - <op1> cannot be an immediate but <op1> can be an intermediate value
 - Conditional instructions include:<br>
@@ -85,11 +101,15 @@ where <op1> and <op2> are not changed and must be of the same size<br>
 #### `Iteration`
 - A special instruction called **loop** provides loop support
 - general format is as follows:<br>
-<p><t>loop <label></p>
+```
+loop <label>
+```
 - example:<br>
-<t>mov  rcx, qword [max]<br>
-<t>mov  rax, 1<br>
-<t>sumLoop:<br>
-<t><t>add   qword [sum], rax<br>
-<t><t>add   rax, 2<br>
-<t><t>loop  sumLoop<br>
+```
+mov  rcx, qword [max]
+mov  rax, 1
+sumLoop:
+add   qword [sum], rax
+add   rax, 2
+loop  sumLoop
+```
