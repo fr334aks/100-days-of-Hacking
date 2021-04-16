@@ -53,3 +53,7 @@
 ### `Day 14`
 - Went through XXE Injection.
 - Link to Summary : [Day 14](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/14.XXE%20Injection)
+
+### `Day 15`
+- Went through Blind XXE 
+- Link to Summary : [Day 15](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/15.Blind%20XXE)
