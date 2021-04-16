@@ -38,7 +38,7 @@
     <summary>Windows Machine</summary>
     
 - [x] Blue
-- [ ] Granny
+- [x] Granny
 - [ ] Secnotes
 - [ ] BankRobber
 - [ ] Worker
