@@ -39,7 +39,7 @@
   * [x]  Access Control Security Models
 * [x] Server-Side Request Forgery
 * [x] XXE Injection
-  * [ ] Blind XXE 
+  * [x] Blind XXE 
 
 #### CLIENT SIDE ATTACKS
 * [ ] Cross-Site Scripting (xss)
