@@ -48,3 +48,12 @@
 - Completed Tryhackme room [link to room](https://tryhackme.com/room/thecodcaper)
 - Cod caper features exploiting a 32 bit buffer overflow in linux
 - Used pwndbg and pwntools
+
+## day 9
+
+- Started looking into x86 assembly programming
+- My github (link)[https://github.com/trevorsaudi/x86asm] to some code I wrote today
+
+# Resources I used
+
+(x86 youtube tutorial)[youtube.com/watch?v=wLXIWKUWpSs]
