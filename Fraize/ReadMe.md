@@ -41,6 +41,19 @@
 * [x] XXE Injection
   * [x] Blind XXE 
 
+#### Server-Side Labs
+* [x] SQL injection - (ongoing)
+* [ ] Authentication vulnerabilities
+* [ ] Directory Traversal
+* [ ] OS Command Injection
+* [ ] Business Logic Vulnerabilities
+* [ ] Information Disclosure
+* [ ] Access Control
+* [ ] Server-Side Request Forgery
+* [ ] XXE Injection
+
+----------------------------
+
 #### CLIENT SIDE ATTACKS
 * [ ] Cross-Site Scripting (xss)
 * [ ] Cross-Site Request Forgery (CSRF)
@@ -48,6 +61,16 @@
 * [ ] Clickjacking
 * [ ] DOM-Based vulnerabilities
 * [ ] Websockets
+
+#### Client-Side Labs
+* [ ] Cross-Site Scripting (xss)
+* [ ] Cross-Site Request Forgery (CSRF)
+* [ ] Cross-Origin Resource Sharing (CORS)
+* [ ] Clickjacking
+* [ ] DOM-Based vulnerabilities
+* [ ] Websockets
+
+-----------------------------
 
 #### More Topics
 * [ ] Insecure Deserialization
