@@ -57,3 +57,12 @@
 # Resources I used
 
 (x86 youtube tutorial)[youtube.com/watch?v=wLXIWKUWpSs]
+
+## day 10
+
+- More on Assmebly , worked on loops and conditionals and the jmp instruction
+- My github (link)[https://github.com/trevorsaudi/x86asm] to some code I wrote today
+
+# Resources I used
+
+(x86 youtube tutorial)[https://www.youtube.com/watch?v=cFGJhn97e3s]
