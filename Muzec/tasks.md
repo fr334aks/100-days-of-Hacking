@@ -23,4 +23,4 @@
      - [x]  Exploit Development Using Python3 And Mona
 
 
-- [x]   Active Directory Lab Build
+- [x]   NetSecFocus Trophy Box Vulnhub Lists
