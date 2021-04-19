@@ -23,7 +23,7 @@
      - [x]  Exploit Development Using Python3 And Mona
 
 
-- [x]   NetSecFocus Trophy Box Vulnhub Lists
+- [ ]   NetSecFocus Trophy Box Vulnhub Lists
 
      - [x]  Kioptrix 1
      - [x]  Kioptrix 2
@@ -76,4 +76,4 @@
      - [ ]  W34kn3ss: 1 
      - [ ]  DerpNStink: 1
  
-- [x]    Active Directory Lab Build 
+- [ ]    Active Directory Lab Build 
