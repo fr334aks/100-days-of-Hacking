@@ -11,7 +11,7 @@
 > * [Introduction to heap exploitation](heap_exploitation.md)
 > 
 
-*Refrences*
+*References*
 > [shellphish how to heap](https://github.com/shellphish/how2heap)
 > 
 > [Heap Exploitation](https://guyinatuxedo.github.io/25-heap/index.html)
