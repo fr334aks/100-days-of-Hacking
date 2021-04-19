@@ -118,3 +118,12 @@ BURNTOUT TOOK BREAK
 ####  `Day 17`
 
 ####  `Day 18`
+
+####  `Day 19`
+<p>- Rooted Poison on HTB, Continued enumerating FunboxEnum on proving ground </a></p>
+<p>-Watched Some xct </p>
+<p>-Watched Some ipsec </p>
+
+####  `Day 20`
+
+####  `Day 21`
