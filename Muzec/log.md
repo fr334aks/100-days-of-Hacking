@@ -662,3 +662,7 @@ Kioptrix 2 Done Also Work On write Up :- [Click Here](https://muzec0318.github.i
 ####  `Day 19`
 
 Toppo Done Also work on Write up :- [Click Me](https://muzec0318.github.io/posts/Toppo.html)
+
+####  `Day 20`
+
+SickOs 1.1 Done Also work on write up :- [Click Me](https://muzec0318.github.io/posts/Sickos.html)
