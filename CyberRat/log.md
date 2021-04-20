@@ -116,25 +116,23 @@ BURNTOUT TOOK BREAK
 
 
 ####  `Day 17`
-<p>-Watched Some xct </p>
+<p>-Watched Several xct </p>
 <p>-Watched Some ipsec </p>
 
 ####  `Day 18`
-<p>-Watched Some xct </p>
+<p>-Watched Several xct </p>
 <p>-Watched Some ipsec </p>
 
-####  `Day 19`
-<p>- Rooted Poison on HTB, Continued enumerating FunboxEnum on proving ground  <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Poison.md">Day 
+####  `Day 19`  
+<p>- Rooted Node, Rooted Poison in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Poison.md">Day 
 19</a></p>
 
-<p>-Watched Some xct </p>
-<p>-Watched Some ipsec </p>
+<p>-Watched Some Ippsec </p>
+<p>-Watched Several xct </p>
 
 
 ####  `Day 20`
-<p>- Enumerated Attacked Sunday On HTB in | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Sunday.md">Day 
-3</a></p>
-
-
+<p>- Rooted Node, Rooted Sunday in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Sunday.md">Day 
+20</a></p>
 
 ####  `Day 21`
