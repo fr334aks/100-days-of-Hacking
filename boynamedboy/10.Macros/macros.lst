@@ -1,0 +1,63 @@
+     1                                 %line 1+1 macros.asm
+     2                                 
+     3                                 
+     4                                 %line 18+1 macros.asm
+     5                                 
+     6                                 [section .data]
+     7                                 
+     8                                 EXIT_SUCCESS equ 0
+     9                                 SYS_exit equ 60
+    10                                 
+    11 00000000 040000000500000002-    list1 dd 4, 5, 2, -3, 1
+    12 00000000 000000FDFFFFFF0100-
+    13 00000000 0000               
+    14 00000014 05000000               len1 dd 5
+    15 00000018 00000000               ave1 dd 0
+    16                                 
+    17 0000001C 020000000600000003-    list2 dd 2, 6, 3, -2, 1, 8, 19
+    18 0000001C 000000FEFFFFFF0100-
+    19 0000001C 000008000000130000-
+    20 0000001C 00                 
+    21 00000038 07000000               len2 dd 7
+    22 0000003C 00000000               ave2 dd 0
+    23                                 
+    24                                 [section .text]
+    25                                 [global _start]
+    26                                 _start:
+    27                                 
+    28                                 
+    29 00000000 B800000000              mov eax, 0
+    30                                 %line 37+0 macros.asm
+    31 00000005 8B0425[00000000]        mov eax, dword[len1]
+    32 0000000C 49C7C400000000          mov r12, 0
+    33 00000013 488D1C25[00000000]      lea rbx, [list1]
+    34                                 
+    35                                 ..@3.sumLoop:
+    36 0000001B 420304A3                add eax, dword [rbx+ r12*4]
+    37 0000001F 49FFC4                  inc r12
+    38 00000022 E2F5                    loop ..@3.sumLoop
+    39                                 
+    40 00000024 99                      cdq
+    41 00000025 F73C25[00000000]        idiv dword [len1]
+    42 0000002C 890425[00000000]        mov dword [ave1], eax
+    43                                 %line 38+1 macros.asm
+    44 00000033 B800000000              mov eax, 0
+    45                                 %line 38+0 macros.asm
+    46 00000038 8B0425[00000000]        mov eax, dword[len2]
+    47 0000003F 49C7C400000000          mov r12, 0
+    48 00000046 488D1C25[00000000]      lea rbx, [list1]
+    49                                 
+    50                                 ..@4.sumLoop:
+    51 0000004E 420304A3                add eax, dword [rbx+ r12*4]
+    52 00000052 49FFC4                  inc r12
+    53 00000055 E2F5                    loop ..@4.sumLoop
+    54                                 
+    55 00000057 99                      cdq
+    56 00000058 F73C25[00000000]        idiv dword [len2]
+    57 0000005F 890425[00000000]        mov dword [ave2], eax
+    58                                 %line 39+1 macros.asm
+    59                                 
+    60                                 last:
+    61 00000066 48C7C03C000000         mov rax, SYS_exit
+    62 0000006D 48C7C700000000         mov rdi, EXIT_SUCCESS
+    63 00000074 0F05                   syscall
