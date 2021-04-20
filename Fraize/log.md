@@ -57,3 +57,7 @@
 ### `Day 15`
 - Went through Blind XXE 
 - Link to Summary : [Day 15](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/15.Blind%20XXE)
+
+### `Day 16`
+- Went through reflected and stored XSS
+- Link to Summary : [Day 16](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/Day%2016.XSS)
