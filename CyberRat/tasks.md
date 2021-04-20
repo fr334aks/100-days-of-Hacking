@@ -23,7 +23,7 @@
 - [x] Node
 - [x] Valentine
 - [x] Poison
-- [ ] Sunday
+- [x] Sunday
 - [ ] Swagshop
 - [ ] Jarvis
 - [ ] Frolic
