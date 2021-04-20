@@ -56,10 +56,10 @@
 
 #### CLIENT SIDE ATTACKS
 * [x] Cross-Site Scripting (xss)
- * [x] Reflected XSS
- * [x] Stored XSS
- * [ ] DOM-based XSS
- * [ ] XSS concepts
+  * [x] Reflected XSS
+  * [x] Stored XSS
+  * [ ] DOM-based XSS
+  * [ ] XSS concepts
 * [ ] Cross-Site Request Forgery (CSRF)
 * [ ] Cross-Origin Resource Sharing (CORS)
 * [ ] Clickjacking
