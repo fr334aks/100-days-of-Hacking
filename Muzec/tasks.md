@@ -32,7 +32,7 @@
      - [ ]  Kioptrix 5
      - [x]  Hacklab -Vulnix
      - [x]  Toppo
-     - [ ]  SickOs
+     - [x]  SickOs
      - [ ]  SicksOs 2
      - [ ]  Fristileaks
      - [ ]  Stapler
