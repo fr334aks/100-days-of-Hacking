@@ -110,7 +110,8 @@ BURNTOUT TOOK BREAK
 <p>- Starting Enumeraiton on PwnTillDawn</p>
 
 ####  `Day 16`
-<p>- Rooted Armagedon on HTB, Continued enumerating FunboxEnum on proving ground  <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Armagedon.md"> </p>
+<p>- Rooted Armagedon on HTB, Continued enumerating FunboxEnum on proving ground  <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Armagedon.md"> Day16 </a> </p>
+  
 <p>-Watched Some xct </p>
 <p>-Watched Some ipsec </p>
 
@@ -124,7 +125,7 @@ BURNTOUT TOOK BREAK
 <p>-Watched Some ipsec </p>
 
 ####  `Day 19`  
-<p>- Rooted Node, Rooted Poison in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Poison.md">Day 
+<p>-  Rooted Poison in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Poison.md">Day 
 19</a></p>
 
 <p>-Watched Some Ippsec </p>
@@ -132,7 +133,7 @@ BURNTOUT TOOK BREAK
 
 
 ####  `Day 20`
-<p>- Rooted Node, Rooted Sunday in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Sunday.md">Day 
+<p>-  Rooted Sunday in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Sunday.md">Day 
 20</a></p>
 
 ####  `Day 21`
