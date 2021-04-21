@@ -39,6 +39,7 @@
     
 - [x] Blue
 - [x] Granny
+- [x] Legacy
 - [ ] Secnotes
 - [ ] BankRobber
 - [ ] Worker
