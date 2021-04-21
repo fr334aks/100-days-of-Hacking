@@ -44,7 +44,7 @@
      - [ ]  Temple Of doom
      - [ ]  Zico 2
      - [ ]  Wintermute 1
-     - [ ]  Tr0ll 1
+     - [x]  Tr0ll 1
      - [ ]  Tr0ll 2
      - [ ]  Hackme 1
      - [ ]  Escalate_Linux
