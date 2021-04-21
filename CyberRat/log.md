@@ -137,3 +137,5 @@ BURNTOUT TOOK BREAK
 20</a></p>
 
 ####  `Day 21`
+<p>-  Rooted Legacy in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Legacy.md">Day 
+20</a></p>
