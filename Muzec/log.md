@@ -657,7 +657,7 @@ Kioptrix 2 Done Also Work On write Up :- [Click Here](https://muzec0318.github.i
 
 ####  `Day 18`
 
-Kioptrix 2 Done Also Work On write Up :- [Click Here](https://muzec0318.github.io/posts/Kioptrix3.html)
+Kioptrix 3 Done Also Work On write Up :- [Click Here](https://muzec0318.github.io/posts/Kioptrix3.html)
 
 ####  `Day 19`
 
@@ -666,3 +666,7 @@ Toppo Done Also work on Write up :- [Click Me](https://muzec0318.github.io/posts
 ####  `Day 20`
 
 SickOs 1.1 Done Also work on write up :- [Click Me](https://muzec0318.github.io/posts/Sickos.html)
+
+####  `Day 21`
+
+Tr0ll 1 Done Also work on write up :- [Click Me](https://muzec0318.github.io/posts/Tr0ll.html)
