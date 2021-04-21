@@ -10,7 +10,7 @@
 
 # Time Table
 
-- [x] Day 1
+- [x] Day 1 (20th-April-21)
 	- [x] [Lab Setup](./logs).
-- [ ] Day 2
+- [ ] Day 2 (21st-April-21)
 	- [ ] Resource gathering and time table creation.
