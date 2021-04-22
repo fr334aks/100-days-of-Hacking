@@ -22,8 +22,8 @@
 - [x] Sense
 - [x] Node
 - [x] Valentine
-- [ ] Poison
-- [ ] Sunday
+- [x] Poison
+- [x] Sunday
 - [ ] Swagshop
 - [ ] Jarvis
 - [ ] Frolic
@@ -39,6 +39,7 @@
     
 - [x] Blue
 - [x] Granny
+- [x] Legacy
 - [ ] Secnotes
 - [ ] BankRobber
 - [ ] Worker
@@ -118,8 +119,10 @@
 ### Second 30 Days 
 
 - [ ] **All Machines on Proving Grounds Practice**
-
-
+- [ ] **Python Foundation Course on Geek4Geeks**
+https://practice.geeksforgeeks.org/courses/Python-Foundation?vC=1
+- [ ] **Breeze Through this privesc basics as a refresher**
+https://www.youtube.com/playlist?list=PL95wzTb6K4yfSsmXDSZyj_e9kWosMGXWx
 <br>
 
 - [ ] **PortSwigger**

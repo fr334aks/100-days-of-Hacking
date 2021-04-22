@@ -165,25 +165,25 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Program Development</summary>
 
-  - [ ] Understanding the problems
+  - [x] Understanding the problems
 
-  - [ ] Creating Algorithms
+  - [x] Creating Algorithms
 
-  - [ ] Implementing Programming
+  - [x] Implementing Programming
 
-  - [ ] Testing/Debugging programs
+  - [x] Testing/Debugging programs
 
 </details>
 <details>
   <summary>Macros</summary>
 
-  - [ ] Single Line Macros
+  - [x] Single Line Macros
 
-  - [ ] Multi Line Macros
+  - [x] Multi Line Macros
 
-  - [ ] Macro Examples
+  - [x] Macro Examples
 
-  - [ ] Debugging Macros
+  - [x] Debugging Macros
 
 </details>
 <details>

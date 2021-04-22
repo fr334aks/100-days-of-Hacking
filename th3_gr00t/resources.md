@@ -14,6 +14,7 @@
 10. [Android Hacker's Handbook](./books/Android_Hacker's_Handbook)
 11. [Inside Android's SafetyNet Attestation](https://www.mulliner.org/collin/publications/inside_safetynet_attestation_attacks_and_defense_mulliner2017_ekoparty.pdf)
 12. [An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
+13. [Android Internals](./books/AIvI-M-RL1.pdf)
 
 ### Crackmes
 

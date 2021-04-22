@@ -78,7 +78,7 @@
 
 ####  `Day 10`
 <p>- Rooted Node, Rooted Blue in in | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Blue.md">Day 
-1</a></p>
+10</a></p>
 <p>-Watched Several xct </p>
 <p>-Completed Applied Linux Command Line and Shell Scripting Zero to Elite
 Udemy</p>
@@ -86,7 +86,7 @@ Udemy</p>
 
 
 ####  `Day 11`
-<p>- Rooted CyberSploit on Proving grounds, Got user on  Pohotographer on proving ground </a></p>
+<p>- Rooted CyberSploit on Proving grounds, Got user on  Photographer on proving ground ></p>
 <p>-Watched Several xct </p>
 <p>- Starting Enumeraiton on PwnTillDawn</p>
 <p>-Continued SQL Lab on PortSwigger </p>
@@ -105,16 +105,37 @@ BURNTOUT TOOK BREAK
 BURNTOUT TOOK BREAK
 
 ####  `Day 15`
-<p>- Rooted Valentine on Granny, Got user on  FunboxEnum on proving ground </a></p>
+<p>- Rooted Valentine on Granny, Got user on  FunboxEnum on proving ground </p>
 <p>-Watched Several xct </p>
 <p>- Starting Enumeraiton on PwnTillDawn</p>
 
 ####  `Day 16`
-<p>- Rooted Armagedon on HTB, Continued enumerating FunboxEnum on proving ground </a></p>
+<p>- Rooted Armagedon on HTB, Continued enumerating FunboxEnum on proving ground  <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Armagedon.md"> Day16 </a> </p>
+  
 <p>-Watched Some xct </p>
 <p>-Watched Some ipsec </p>
 
 
 ####  `Day 17`
+<p>-Watched Several xct </p>
+<p>-Watched Some ipsec </p>
 
 ####  `Day 18`
+<p>-Watched Several xct </p>
+<p>-Watched Some ipsec </p>
+
+####  `Day 19`  
+<p>-  Rooted Poison in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Poison.md">Day 
+19</a></p>
+
+<p>-Watched Some Ippsec </p>
+<p>-Watched Several xct </p>
+
+
+####  `Day 20`
+<p>-  Rooted Sunday in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Sunday.md">Day 
+20</a></p>
+
+####  `Day 21`
+<p>-  Rooted Legacy in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Legacy.md">Day 
+20</a></p>
