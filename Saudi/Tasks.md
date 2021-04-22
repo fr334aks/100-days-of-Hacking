@@ -66,3 +66,15 @@
 # Resources I used
 
 (x86 youtube tutorial)[https://www.youtube.com/watch?v=cFGJhn97e3s]
+
+
+
+## day 11
+
+- More on Assmebly , worked on functions and some stack operations
+- My github (link)[https://github.com/trevorsaudi/x86asm] to some code I wrote today
+
+# Resources I used
+
+(x86 youtube tutorial)[https://youtu.be/KgfljMtrKkI]
+
