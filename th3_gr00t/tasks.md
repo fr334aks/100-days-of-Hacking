@@ -56,5 +56,8 @@
 
 - [x] Day 1 (20th-April-21)
 	- [x] [Lab Setup](./logs.md).
-- [ ] Day 2 (21st-April-21)
-	- [ ] Resource gathering and time table creation.
+- [x] Day 2 (~~21st-April-21~~) (22nd-April-21)
+	- [x] Resource gathering and time table creation.
+- [ ] Day 3 (23rd-April-21)
+	- [ ] 1 CTF Challenge.
+	- [ ] Start Android App Development. (7Hours/15Hours)

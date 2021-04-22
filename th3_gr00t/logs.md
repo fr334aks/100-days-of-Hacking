@@ -14,3 +14,7 @@
 	  - [x] [jadx](https://github.com/skylot/jadx) on linux.
 	  - [x] [GDA](http://www.gda.wiki:9090/) replaces [jadx](https://github.com/skylot/jadx) on windows.
 	  - [x] [RMS](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) awesome tool.
+
+## Day 2 (22nd April 2021)
+
+- [x] Resource gathering; (Tasks, Blogs to read and type of attacks to study).
