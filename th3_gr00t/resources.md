@@ -1,6 +1,6 @@
 ![img](https://img.icons8.com/doodle/96/000000/books.png)
 
-### Books, Papers and Courses
+### Books, Papers and Coursest
 
 1. [Android Hacker's Handbook](./books/Mobile_App_Hackers_Handbook.pdf)
 2. [Android Internals](./books/androidsecurityinternals.pdf)
@@ -24,6 +24,7 @@
 4. [MOBISEC Challenges](https://challs.reyammer.io/challenges)
 5. [B3nac Injured Android CTF](https://github.com/B3nac/InjuredAndroid)
 6. [Oversecured Vulnerable Android App - OVAA](https://github.com/oversecured/ovaa)
+7. [FridaLab](https://rossmarks.uk/blog/fridalab/)
 
 ### Others
 
@@ -39,3 +40,23 @@
 10. [Android Application Hacking Resources](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html) 🌟🌟🌟🌟
 11. [jdonsec/AllThingsAndroid](https://github.com/jdonsec/AllThingsAndroid)
 12. [Oversecured Blog](https://blog.oversecured.com/)
+13. [Farah Hawa Android App Security Basics Part1](https://www.youtube.com/watch?v=a8Gh7d8GebA)
+14. [Farah Hawa Android App Security Basics Part2](https://www.youtube.com/watch?v=qS5PkC-37io)
+15. [Android App Penetration Testing 101 by Wild West Hackin' Fest 2018](https://www.youtube.com/watch?v=2uwhrfXCl4I)
+16. [Android Directory Structure](https://guides.codepath.com/android/Android-Directory-Structure)
+17. [CodePath Android Cliffnotes](https://guides.codepath.com/android/) 🌟🌟🌟🌟🌟
+18. [Android Tutorials - HowToDoInJava](https://howtodoinjava.com/android/) 🌟🌟🌟
+19. [Androir Architecture](https://source.android.com/devices/architecture)
+20. [Interesting Android Vulns/CVEs by Rahul Kankrale](https://servicenger.com/blog/category/mobile/android/)
+21. [Basic Android Security Testing lab — 1](https://medium.com/inbughunters/basic-android-security-testing-lab-part-1-a2b87e667533)
+22. [Guide to Setting Up Android Pentesting Lab](https://securityjunky.com/guide-to-setting-up-android-pentesting-lab/) 
+23. [MOBEXLER - A Mobile Application Penetration Testing Platform](https://mobexler.com/)
+24. [Oversecured; Automated Android Application Scanner](https://oversecured.com/)
+25. [Frida Cheatsheet](https://rehex.ninja/posts/frida-cheatsheet/)
+
+### Twitter Users to Follow
+
+1. [Bagipro](https://twitter.com/_bagipro)
+2. [B3nac](https://twitter.com/B3nac)
+3. [Mobile Security](https://twitter.com/mobilesecurity_)
+4. [jeffvanderstoep](https://twitter.com/jeffvanderstoep)

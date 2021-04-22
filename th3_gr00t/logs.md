@@ -4,7 +4,7 @@
 
 ## Day 1 (20th April 2021)
 
-- [x] Setup of Lab.
+- [x] [Setup of Lab](https://gist.github.com/iAmG-r00t/758f275371b74f0d6a47afe7caa40b65).
 	- [x] Tools that will aid in development.
 	  - [x] Genymotion
 	  - [x] Android Studio
