@@ -119,8 +119,8 @@
 ### Second 30 Days 
 
 - [ ] **All Machines on Proving Grounds Practice**
-
-
+- [ ] **Python Foundation Course on Geek4Geeks**
+https://practice.geeksforgeeks.org/courses/Python-Foundation?vC=1
 <br>
 
 - [ ] **PortSwigger**
