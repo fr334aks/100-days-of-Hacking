@@ -78,3 +78,11 @@
 
 (x86 youtube tutorial)[https://youtu.be/KgfljMtrKkI]
 
+## day 12
+
+- More on Assmebly , practiced on previously learnt topics. Tried writing some functions of my own and 
+explored other syscalls
+- My github (link)[https://github.com/trevorsaudi/x86asm] to some code I wrote today
+
+
+
