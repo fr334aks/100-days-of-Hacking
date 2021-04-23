@@ -63,7 +63,7 @@
 - Link to Summary : [Day 16](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/Day%2016.XSS)
 
 ### `Day 17`
-- Went through
+- Went through DOM-based XSS and Content Security Policy(CSP)
 - Link to Summary : [Day 17](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/17.XSS)
 
 ### `Day 18`
