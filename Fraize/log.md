@@ -61,3 +61,11 @@
 ### `Day 16`
 - Went through reflected and stored XSS
 - Link to Summary : [Day 16](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/Day%2016.XSS)
+
+### `Day 17`
+- Went through
+- Link to Summary : [Day 17](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/17.XSS)
+
+### `Day 18`
+- Went through Dangling Markup Injection and how to prevent XSS vulnerabilities.
+- Link to Summary : [Day 18](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/18.XSS)
