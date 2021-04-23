@@ -59,7 +59,7 @@
   * [x] Reflected XSS
   * [x] Stored XSS
   * [x] DOM-based XSS
-  * [ ] XSS concepts
+  * [x] XSS concepts
 * [ ] Cross-Site Request Forgery (CSRF)
 * [ ] Cross-Origin Resource Sharing (CORS)
 * [ ] Clickjacking
