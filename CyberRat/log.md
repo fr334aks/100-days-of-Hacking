@@ -139,3 +139,20 @@ BURNTOUT TOOK BREAK
 ####  `Day 21`
 <p>-  Rooted Legacy in HTB | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/blob/main/CyberRat/Writeups/Legacy.md">Day 
 20</a></p>
+
+
+####  `Day 22`
+<p>- Enumerated Attacked  Secnote On HTB in 9 Hour | WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Shocker.md">Day 
+2</a></p>
+<p>-Continued SQL Lab on PortSwigger </p>
+<p>- Link to summary provided here: <a href="https://#">Day 2</a></p>
+
+
+
+
+####  `Day 23`
+<p>- Continued Enumeration on  SecNotes| WriteUp Here : <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/CyberRat/HTB/Shockermd">Day 
+2</a></p>
+<p>-Continued SQL Lab on PortSwigger </p>
+<p>- Link to summary provided here: <a href="https://#">Day 2</a></p>
+
