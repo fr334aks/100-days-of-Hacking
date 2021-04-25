@@ -68,4 +68,4 @@
 
 ### `Day 18`
 - Went through Dangling Markup Injection and how to prevent XSS vulnerabilities.
-- Link to Summary : [Day 18](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/18.XSS)
+- Link to Summary : [Day 18](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/18.XSS){: .btn}
