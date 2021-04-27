@@ -69,3 +69,7 @@
 ### `Day 18`
 - Went through Dangling Markup Injection and how to prevent XSS vulnerabilities.
 - Link to Summary : [Day 18](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/18.XSS)
+
+### `Day 19`
+- Went through part of CSRF,how it works, constructing a CSRF attack, delivering it and preventing such an attack from occuring.
+- Link to Summary : [Day 19](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/19.CSRF)

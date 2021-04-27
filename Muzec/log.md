@@ -670,3 +670,13 @@ SickOs 1.1 Done Also work on write up :- [Click Me](https://muzec0318.github.io/
 ####  `Day 21`
 
 Tr0ll 1 Done Also work on write up :- [Click Me](https://muzec0318.github.io/posts/Tr0ll.html)
+
+####  `Day 22`
+
+Brainpan 1 Done Also work on write up :- [Click Me](https://muzec0318.github.io/posts/Brainpan1.html)
+
+####  `Day 23`
+
+Inclusiveness Done Also work on write up :- [Click Me](https://muzec0318.github.io/posts/Inclusiveness.html)
+
+####  `Day 24`
