@@ -1,4 +1,9 @@
 the syntax of assembly is  [operator] operand,operand
+<h3><b>acess modes</h3></b>
+<h5><b>Register</b>use value in this register</h5>
+<h5><b>Direct memory</b>use value in the specified memory location</h5>
+<h5><b>Immediate</b>use the spcified value</h5>
+<br>
 x86 instruction set
 mov  reg,reg/memory/constant
 mov memory,reg
