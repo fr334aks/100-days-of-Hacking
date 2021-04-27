@@ -189,17 +189,17 @@ This repo will cointain my journey as i learn x86_64bit Assembly...Some stuff i 
 <details>
   <summary>Functions</summary>
 
-  - [ ] Linking Instructions
+  - [x] Linking Instructions
 
-  - [ ] Using Debuggers
+  - [x] Using Debuggers
 
-  - [ ] Stack Dynamic Local Variables
+  - [x] Stack Dynamic Local Variables
 
-  - [ ] Function Declaration
+  - [x] Function Declaration
 
-  - [ ] Standard Calling Convections
+  - [x] Standard Calling Convections
 
-  - [ ] Linkage
+  - [x] Linkage
 
   - [ ] Argument Transmission
 
