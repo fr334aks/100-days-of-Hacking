@@ -34,8 +34,8 @@ global _start
 _start:
 ;---------------
 ;invoke the macro here in program
-aver    list1, len1, ave1 ;first dataset
-aver    list1, len2, ave2 ;second dataset
+aver    list1,len1,ave1 ;first dataset
+aver    list1,len2,ave2 ;second dataset
 
 last:
 mov     rax, SYS_exit       ;exit
