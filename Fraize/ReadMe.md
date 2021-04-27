@@ -42,7 +42,7 @@
   * [x] Blind XXE 
 
 #### Server-Side Labs
-* [x] SQL injection - (ongoing)
+* [x] SQL injection 
 * [ ] Authentication vulnerabilities
 * [ ] Directory Traversal
 * [ ] OS Command Injection
@@ -61,6 +61,13 @@
   * [x] DOM-based XSS
   * [x] XSS concepts
 * [ ] Cross-Site Request Forgery (CSRF)
+  * [x] Working of CSRF
+  * [x] Constructing a CSRF attack
+  * [x] Delivering a CSRF exploit
+  * [x] Preventing CSRF attacks
+  * [ ] Common CSRF attacks
+  * [ ] Validation of CSRF
+  * [ ] Referer-based defenses against CSRF
 * [ ] Cross-Origin Resource Sharing (CORS)
 * [ ] Clickjacking
 * [ ] DOM-Based vulnerabilities
