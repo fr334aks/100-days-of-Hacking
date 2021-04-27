@@ -67,6 +67,7 @@
      - [ ]  Tiki 1
      - [ ]  Lord Of The Root
      - [ ]  Photographer 1
+     - [x]  Inclusiveness
      - [ ]  devguru 1
      - [ ]  Glasglow
      - [ ]  LemonSqueezy
