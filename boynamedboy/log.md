@@ -43,3 +43,7 @@
 #### `Day 11`
 <p>- Went through macros, defining them and invoked a macro,run program and finally debugged it</p>
 <p>- Link to summary provided here: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/10.Macros/Readme.md">Day 11</a></p>
+
+#### `Day 11`
+<p>- Went through functions</p>
+<p>- Link to summary provided here: <a href="https://github.com/fr334aks/100-days-of-Hacking/tree/main/boynamedboy/11.Functions/Readme.md">Day 12</a></p>
