@@ -156,3 +156,25 @@ BURNTOUT TOOK BREAK
 <p>-Continued SQL Lab on PortSwigger </p>
 <p>- Link to summary provided here: <a href="https://#">Day 2</a></p>
 
+
+####  `Day 24`
+<p>-Watched Several xct </p>
+<p>-Watched Some ipsec </p>
+
+####  `Day 25`
+<p>-Watched Several xct </p>
+<p>-Watched Some ipsec </p>
+
+####  `Day 26`
+<p>-Watched Several xct </p>
+<p>-Watched Some ipsec </p>
+
+
+####  `Day 27`
+<p>Enumerated year of the Jellyfish on THM </p>
+<p>-Watched Some ipsec </p>
+
+
+####  `Day 28`
+<p>-Rooted YearOf The JellyFish on THM </p>
+<p>-Watched Some ipsec </p>
