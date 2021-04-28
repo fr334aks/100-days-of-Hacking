@@ -73,3 +73,7 @@
 ### `Day 19`
 - Went through part of CSRF,how it works, constructing a CSRF attack, delivering it and preventing such an attack from occuring.
 - Link to Summary : [Day 19](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/19.CSRF)
+
+### `Day 20`
+- Went through Common CSRF vulnerabilities
+- Link to Summary : [Day 20](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/20.CSRF)
