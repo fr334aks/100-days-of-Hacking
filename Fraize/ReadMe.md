@@ -60,7 +60,7 @@
   * [x] Stored XSS
   * [x] DOM-based XSS
   * [x] XSS concepts
-* [ ] Cross-Site Request Forgery (CSRF)
+* [x] Cross-Site Request Forgery (CSRF)
   * [x] Working of CSRF
   * [x] Constructing a CSRF attack
   * [x] Delivering a CSRF exploit
