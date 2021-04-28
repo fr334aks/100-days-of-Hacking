@@ -177,4 +177,4 @@ BURNTOUT TOOK BREAK
 
 ####  `Day 28`
 <p>-Rooted YearOf The JellyFish on THM </p>
-<p>-Watched Some ipsec </p>
+<p>-Continued Enumeration On secnotes</p>
