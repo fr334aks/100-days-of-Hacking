@@ -7,7 +7,7 @@
 - [x] Setup A Lab
 - [x] Gather reading resources and Android Application vulnerabilites to learn.
 - [x] Create a timetable from the above resources that I would have gathered.
-- [ ] 1 CTF challenge from: [Infosec Institute](https://resources.infosecinstitute.com/topic/mobile-ctf-challenge-contest-details-win-1000/)[Mobile CTF Challenges](./ctfs/MobileCTFapps.zip).
+- [x] 1 CTF challenge from: [Infosec Institute](https://resources.infosecinstitute.com/topic/mobile-ctf-challenge-contest-details-win-1000/)[Mobile CTF Challenges](./ctfs/MobileCTFapps.zip).
 - [ ] Create a simple mobile application to get an understanding of how mobile applicatios are created.
 - [ ] Try to finish the 3 CTF challenges from: [Infosec Institute](https://resources.infosecinstitute.com/topic/mobile-ctf-challenge-contest-details-win-1000/)[Mobile CTF Challenges](./ctfs/MobileCTFapps.zip).
 - [ ] Read the [Mobile Application Hackers Handbook](./books/Mobile_App_Hackers_Handbook.pdf).
@@ -23,7 +23,6 @@
 - [ ] [FridaLab](https://www.shielder.it/blog/2019/02/fridalab-writeup/).
 - [ ] [AndroGoat](https://github.com/satishpatnayak/AndroGoat)
 
-
 ## Vulnerability Blogposts to Read
 
 - [ ] [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
@@ -37,10 +36,9 @@
 - [ ] [Oversecured detects dangerous vulnerabilities in the TikTok Android app](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
 - [ ] [Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
 - [ ] [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
-- [ ] [Gaining access to arbitrary* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
+- [ ] [Gaining access to arbitrary\* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
 - [ ] [Bypassing Linkedin fingerprint authentication in android](https://ciph3r.medium.com/bypassing-linkedin-fingerprint-authentication-in-android-fe7bc55d1adb)
 - [ ] [Oversecured automatically discovers persistent code execution in the Google Play Core Library](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
-
 
 # Vulnerabilities to Study
 
@@ -51,13 +49,12 @@
 - [ ] Achieving XSS in Android Applications
 - [ ] Attacking Deeplinks
 
-
 # Time Table
 
 - [x] Day 1 (20th-April-21)
-	- [x] [Lab Setup](./logs.md).
+  - [x] [Lab Setup](./logs.md).
 - [x] Day 2 (~~21st-April-21~~) (22nd-April-21)
-	- [x] Resource gathering and time table creation.
-- [ ] Day 3 (23rd-April-21)
-	- [ ] 1 CTF Challenge.
-	- [ ] Start Android App Development. (7Hours/15Hours)
+  - [x] Resource gathering and time table creation.
+- [ ] Day 3 (~~23rd-April-21~~) (28th-April-21)
+  - [x] 1 CTF Challenge.
+  - [x] Start Android App Development. (7Hours/15Hours) **inprogress**
