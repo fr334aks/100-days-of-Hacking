@@ -65,9 +65,9 @@
   * [x] Constructing a CSRF attack
   * [x] Delivering a CSRF exploit
   * [x] Preventing CSRF attacks
-  * [ ] Common CSRF attacks
-  * [ ] Validation of CSRF
-  * [ ] Referer-based defenses against CSRF
+  * [x] Common CSRF attacks
+  * [x] Validation of CSRF
+  * [x] Referer-based defenses against CSRF
 * [ ] Cross-Origin Resource Sharing (CORS)
 * [ ] Clickjacking
 * [ ] DOM-Based vulnerabilities
