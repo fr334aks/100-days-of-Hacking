@@ -69,9 +69,30 @@
   * [x] Validation of CSRF
   * [x] Referer-based defenses against CSRF
 * [ ] Cross-Origin Resource Sharing (CORS)
+  * [ ] Same-origin policy (SOP)
+  * [ ] CORS and the Access-Control-Allow-Origin response header
 * [ ] Clickjacking
 * [ ] DOM-Based vulnerabilities
+  * [ ] Controlling the web-message source
+  * [ ] DOM-based open redirection
+  * [ ] DOM-based cookie manipulation
+  * [ ] DOM-based JavaScript injection
+  * [ ] DOM-based document-domain manipulation
+  * [ ] DOM-based WebSocket-URL poisoning
+  * [ ] DOM-based link manipulation
+  * [ ] Web-message manipulation
+  * [ ] DOM-based Ajax request-header manipulation
+  * [ ] DOM-based local file-path manipulation
+  * [ ] DOM-based client-side SQL injection
+  * [ ] DOM-based HTML5-storage manipulation
+  * [ ] DOM-based client-side XPath injection
+  * [ ] DOM-based client-side JSON injection
+  * [ ] DOM-data manipulation
+  * [ ] DOM-based denial of service
+  * [ ] DOM clobbering
 * [ ] Websockets
+  * [ ] What are WebSockets?
+  * [ ] Cross-site WebSocket hijacking
 
 #### Client-Side Labs
 * [ ] Cross-Site Scripting (xss)
@@ -85,6 +106,7 @@
 
 #### More Topics
 * [ ] Insecure Deserialization
+  * [ ] Exploiting insecure deserialization vulnerabilities
 * [ ] Server-side template injection (SSTI)
 * [ ] Web cache poisoning
 * [ ] HTTP Host header aattacks
