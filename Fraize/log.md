@@ -77,3 +77,7 @@
 ### `Day 20`
 - Went through Common CSRF vulnerabilities
 - Link to Summary : [Day 20](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/20.CSRF)
+
+### `Day 21`
+- Went through Cross-Origin Resource Sharing(CORS) and same-origin policy(SOP)
+- Link to Summary : [Day 21](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/21.Cors)
