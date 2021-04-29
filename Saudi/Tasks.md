@@ -85,4 +85,24 @@ explored other syscalls
 - My github (link)[https://github.com/trevorsaudi/x86asm] to some code I wrote today
 
 
+## day 13
+
+- More on Assmebly , practiced on previously learnt topics. Tried writing some functions of my own and 
+explored other syscalls
+- My github (link)[https://github.com/trevorsaudi/x86asm] to some code I wrote today
+
+
+## day 14
+
+- Working on C. Strenghtening knowledge on pointers
+
+
+## day 15
+
+- Working on C. Strenghtening knowledge on pointers
+
+## day 16
+
+- Building small tools in C
+
 
