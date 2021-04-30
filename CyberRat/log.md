@@ -178,3 +178,15 @@ BURNTOUT TOOK BREAK
 ####  `Day 28`
 <p>-Rooted YearOf The JellyFish on THM </p>
 <p>-Continued Enumeration On secnotes</p>
+
+
+####  `Day 28`
+<p>-Got FootHold on Swagshop| Rooted Swagshop </p>
+<p>-Continued Enumeration On secnotes</p>
+<p>-Watched Some ipsec </p>
+
+
+####  `Day 28`
+<p>- Got Foodhold on Secnotes </p>
+<p>-Continued Enumeration On secnotes</p>
+<p>-Watched Some ipsec </p>
