@@ -1,4 +1,4 @@
-extends _printf, _exit;
+extern _printf, _exit;
 section .data;
     message: db "Hello World",10,0; zero acts as a null terminator.in ascii 0 is null 10 is new line
     format: db "%s",0
@@ -16,3 +16,7 @@ _main:
     push message;
     push format;
     call _printf
+
+    mov esp,ebp
+    pop ebp
+    ret
