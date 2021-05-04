@@ -81,3 +81,7 @@
 ### `Day 21`
 - Went through Cross-Origin Resource Sharing(CORS) and same-origin policy(SOP)
 - Link to Summary : [Day 21](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/21.Cors)
+
+### `Day 22`
+- Gone through CORS vulnerabilities and how to prevent CORS-based attacks.
+- Link to Summary : [Day 22](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/22.CORS)
