@@ -70,7 +70,7 @@
   * [x] Referer-based defenses against CSRF
 * [ ] Cross-Origin Resource Sharing (CORS)
   * [x] Same-origin policy (SOP)
-  * [ ] CORS and the Access-Control-Allow-Origin response header
+  * [x] CORS and the Access-Control-Allow-Origin response header
 * [ ] Clickjacking
 * [ ] DOM-Based vulnerabilities
   * [ ] Controlling the web-message source
