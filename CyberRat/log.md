@@ -190,3 +190,26 @@ BURNTOUT TOOK BREAK
 <p>- Got Foodhold on Secnotes </p>
 <p>-Continued Enumeration On secnotes</p>
 <p>-Watched Some ipsec </p>
+
+####  `Day 1`
+<p>- Got Foodhold on Secnotes </p>
+<p>-Continued Enumeration On secnotes</p>
+<p>-Watched Some ipsec </p>
+
+
+####  `Day 2`
+<p>-Watched Some ipsec </p>
+
+####  `Day 3`
+
+<p>-Watched Some ipsec </p>
+
+####  `Day 4`
+<p>- Rooted SunsetNoonTIde </p>
+<p>-Continued Enumeration On secnotes</p>
+<p>-Watched Some ipsec </p>
+
+####  `Day 5`
+<p>- Got Foodhold on Secnotes </p>
+<p>-Continued Enumeration On secnotes</p>
+<p>-Watched Some ipsec </p>
