@@ -68,10 +68,10 @@
   * [x] Common CSRF attacks
   * [x] Validation of CSRF
   * [x] Referer-based defenses against CSRF
-* [ ] Cross-Origin Resource Sharing (CORS)
+* [x] Cross-Origin Resource Sharing (CORS)
   * [x] Same-origin policy (SOP)
   * [x] CORS and the Access-Control-Allow-Origin response header
-* [ ] Clickjacking
+* [x] Clickjacking
 * [ ] DOM-Based vulnerabilities
   * [ ] Controlling the web-message source
   * [ ] DOM-based open redirection
