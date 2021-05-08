@@ -85,3 +85,7 @@
 ### `Day 22`
 - Gone through CORS vulnerabilities and how to prevent CORS-based attacks.
 - Link to Summary : [Day 22](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/22.CORS)
+
+### `Day 23`
+-  Got to learn how clickjacking attacks are done and how to prevent them from occuring.
+- Link to Summary : [Day 23](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/23.Clickjacking)
