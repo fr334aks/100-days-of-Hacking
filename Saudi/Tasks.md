@@ -105,4 +105,17 @@ explored other syscalls
 
 - Building small tools in C
 
+## day 17
+
+- Started working on challenges from (pwnable.kr)[pwnable.kr]
+
+## day 18
+
+- Continuing with the challenges from pwnable.kr
+
+## day 18
+
+- Worked on protostar challenges, learning how to develop exploits with pwntools
+
+
 
