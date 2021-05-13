@@ -117,5 +117,14 @@ explored other syscalls
 
 - Worked on protostar challenges, learning how to develop exploits with pwntools
 
+## day 19
 
+- Stack5 from protostar took me a while to grasp but eventually understood how the stack shifts when using gdb
 
+## day 20
+
+- Started working on bypassing restricted return pointers. Will compile my resources soon
+
+## day 21
+
+- Wrote an article showcasing ret2libc ROP. (link to article)[https://trevorsaudi.medium.com/rop-ret2libc-attack-protostar6-ab537d59b6a8]
