@@ -87,5 +87,9 @@
 - Link to Summary : [Day 22](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/22.CORS)
 
 ### `Day 23`
--  Got to learn how clickjacking attacks are done and how to prevent them from occuring.
+- Got to learn how clickjacking attacks are done and how to prevent them from occuring.
 - Link to Summary : [Day 23](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/23.Clickjacking)
+
+### `Day 24`
+- Went through WebSockets
+- Link to Summary : [Day 24](https://github.com/fr334aks/100-days-of-Hacking/tree/main/Fraize/24.WebSockets)
