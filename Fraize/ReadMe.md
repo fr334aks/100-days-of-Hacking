@@ -90,9 +90,9 @@
   * [ ] DOM-data manipulation
   * [ ] DOM-based denial of service
   * [ ] DOM clobbering
-* [ ] Websockets
-  * [ ] What are WebSockets?
-  * [ ] Cross-site WebSocket hijacking
+* [x] Websockets
+  * [x] What are WebSockets?
+  * [x] Cross-site WebSocket hijacking
 
 #### Client-Side Labs
 * [ ] Cross-Site Scripting (xss)
