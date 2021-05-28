@@ -128,3 +128,31 @@ explored other syscalls
 ## day 21
 
 - Wrote an article showcasing ret2libc ROP. (link to article)[https://trevorsaudi.medium.com/rop-ret2libc-attack-protostar6-ab537d59b6a8]
+
+## day 22
+
+- Reading and familiarizing with calling conventions in ROP
+
+## day 23 
+
+- Going through Pwn writeups and CTF challenges
+
+## day 24 
+
+- Going through the DCTF Pwn challenges. (Github link)[https://github.com/tacopeland/CTF-Writeups/tree/main/dctf2021/]
+
+## day 25
+
+- Did some reading on Global Offset Tables and Procedure Linkage Tables (link to article)[https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html]
+
+## day 26
+
+-  Continued working on ropemporium challenges. 
+
+## day 27
+
+-  Continued working on ropemporium challenges. 
+
+## day 28
+
+-  Continued working on ropemporium challenges. Getting familiar with 32-bit and 64-bit calling conventions
