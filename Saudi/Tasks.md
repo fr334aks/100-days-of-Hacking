@@ -147,12 +147,16 @@ explored other syscalls
 
 ## day 26
 
--  Continued working on ropemporium challenges. 
+-  Looked at narnia2 from overthewire
 
 ## day 27
 
 -  Continued working on ropemporium challenges. 
 
 ## day 28
+
+-  Did a webinar on intro to Binex (link to youtube)[https://www.youtube.com/watch?v=bLvYjTqnBuI&t=3234s]
+
+## day 29
 
 -  Continued working on ropemporium challenges. Getting familiar with 32-bit and 64-bit calling conventions
