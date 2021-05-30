@@ -160,3 +160,11 @@ explored other syscalls
 ## day 29
 
 -  Continued working on ropemporium challenges. Getting familiar with 32-bit and 64-bit calling conventions
+
+## day 30
+
+-  Learning how to write into memory using ROP.
+
+## day 31
+
+- Solved the write challenge on ropemporium. Also created a repository to keep track of my binary exploitation solves
