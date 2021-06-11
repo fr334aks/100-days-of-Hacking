@@ -168,3 +168,11 @@ explored other syscalls
 ## day 31
 
 - Solved the write challenge on ropemporium. Also created a repository to keep track of my binary exploitation solves
+
+## day 31
+
+- Got back to finish the stack challenges from protostar.
+## day 32
+
+- Finishing up with ropemporium challenges so I can get back to starting with format string bugs
+- Doing the badchars challenge from ropemporium
