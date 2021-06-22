@@ -172,7 +172,13 @@ explored other syscalls
 ## day 31
 
 - Got back to finish the stack challenges from protostar.
+
 ## day 32
 
 - Finishing up with ropemporium challenges so I can get back to starting with format string bugs
 - Doing the badchars challenge from ropemporium
+
+## day 33-38 
+
+- Preparing for my EJPT exam. 
+- Studying on ip routing, common web attacks, system exploitation, post exploitaiton etc
